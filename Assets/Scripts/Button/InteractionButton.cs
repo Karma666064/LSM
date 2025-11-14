@@ -1,9 +1,9 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class MoveButton : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
+public class InteractionButton : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 {
-    public bool isPressed;
+    public bool isPressed = false;
 
     public void OnPointerDown(PointerEventData eventData)
     {

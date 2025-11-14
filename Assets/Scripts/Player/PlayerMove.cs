@@ -5,8 +5,6 @@ public class PlayerMove : MonoBehaviour
 {
     Rigidbody2D rb;
 
-    [SerializeField] MoveButton[] moveButtons;
-
     [SerializeField] float speed;
     
     public bool canMove = true;
