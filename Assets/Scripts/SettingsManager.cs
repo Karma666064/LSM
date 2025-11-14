@@ -88,7 +88,7 @@ public class SettingsManager : MonoBehaviour
             if (allUITextComponents[i] != null)
             {
                 // CORRECTION MAJEURE : On utilise la taille INITIALE pour le calcul
-                allUITextComponents[i].fontSize = initialFontSizes[i] * TextSizeMultiplier;
+                allUITextComponents[i].fontSize = initialFontSizes[i] + TextSizeMultiplier;
             }
         }
     }
@@ -97,7 +97,7 @@ public class SettingsManager : MonoBehaviour
     public void SetTextSizeMultiplier(float sliderValue)
     {
         // Calcule le multiplicateur réel (Ex: 0 -> 1.0; 1 -> 1.5)
-        TextSizeMultiplier = 1.0f + (sliderValue * MAX_SIZE_INCREASE);
+        TextSizeMultiplier = sliderValue;
 
         // Applique immédiatement la nouvelle taille aux textes visibles
         ApplyTextSizeToAll();
