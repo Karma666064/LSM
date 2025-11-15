@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-//using UnityEngine.Audio;
+using UnityEngine.Audio;
 
 public class SettingsManager : MonoBehaviour
 {
@@ -19,7 +19,10 @@ public class SettingsManager : MonoBehaviour
     public TextMeshProUGUI[] allUITextComponents;
     private float[] initialFontSizes;
     public static float TextSizeMultiplier = 1.0f;
-    private const float MAX_SIZE_INCREASE = 0.5f;
+    //private const float MAX_SIZE_INCREASE = 0.5f;
+
+    // Réf. pour l'Audio
+    public AudioMixer masterMixer;
 
     private void Awake()
     {
@@ -110,9 +113,35 @@ public class SettingsManager : MonoBehaviour
     // 4. Contrôle du Volume Général (Slider)
     public void SetMasterVolume(float volume)
     {
-        // audioMixer.SetFloat("MasterVolume", Mathf.Log10(volume) * 20);
+        // 1. Gérer le silence total : Unity ne peut pas faire Log10(0)
+        if (volume <= 0.0001f)
+        {
+            // Définit le volume à -80 dB, ce qui est le silence total pour un Mixer.
+            masterMixer.SetFloat("MasterVolume", -80f);
+        }
+        else
+        {
+            // 2. Conversion Logarithmique : Convertit la valeur linéaire du Slider (0.001 à 1) 
+            // en décibels (dB) (environ -60dB à 0dB).
+            // Le nom du paramètre ("MasterVolume") DOIT correspondre au nom exposé dans le Mixer.
+            masterMixer.SetFloat("MasterVolume", Mathf.Log10(volume) * 20);
+        }
 
-        Debug.Log("Volume Général : " + volume.ToString("F2"));
+        Debug.Log("Volume Général réglé à : " + volume.ToString("F2"));
+    }
+
+    public void SetSFXVolume(float volume)
+    {
+        if (volume <= 0.0001f)
+        {
+            masterMixer.SetFloat("SFXVolume", -80f);
+        }
+        else
+        {
+            masterMixer.SetFloat("SFXVolume", Mathf.Log10(volume) * 20);
+        }
+        Debug.Log("Volume SFX réglé à : " + volume.ToString("F2"));
+
     }
 
     // --- SECTION CONTRÔLE ---
