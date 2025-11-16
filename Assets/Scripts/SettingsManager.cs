@@ -48,28 +48,40 @@ public class SettingsManager : MonoBehaviour
             return;
         }
 
-        // Trouve tous les composants de texte d'UI (UGUI)
-        allUITextComponents = FindObjectsByType<TextMeshProUGUI>(FindObjectsInactive.Include, FindObjectsSortMode.None);
+        UnityEngine.SceneManagement.SceneManager.sceneLoaded += OnSceneLoaded;
+    }
 
-        // Initialise le tableau pour stocker les tailles de police d'origine
+    private void OnSceneLoaded(UnityEngine.SceneManagement.Scene scene, UnityEngine.SceneManagement.LoadSceneMode mode)
+    {
+        // Important : Nous appelons l'initialisation à chaque chargement de scène
+        // (même si les objets persistent, cela garantit que les réglages sont appliqués)
+        InitializeUIReferences();
+        LoadSettings();
+    }
+
+    private void OnDestroy()
+    {
+        // On se désabonne pour éviter les erreurs lorsque l'application se ferme
+        UnityEngine.SceneManagement.SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    // Remplacement de la logique d'initialisation des textes
+    private void InitializeUIReferences()
+    {
+        // Trouve tous les composants de texte d'UI DANS LE JEU ACTUEL (y compris les objets persistants)
+        allUITextComponents = FindObjectsByType<TextMeshProUGUI>(FindObjectsInactive.Include, FindObjectsSortMode.None);
         initialFontSizes = new float[allUITextComponents.Length];
 
-        // Stocke la taille initiale (DOIT être fait AVANT LoadSettings)
+        // Stocke la taille initiale
         for (int i = 0; i < allUITextComponents.Length; i++)
         {
             if (allUITextComponents[i] != null)
             {
                 initialFontSizes[i] = allUITextComponents[i].fontSize;
-                // Désactiver AutoSize ici, si ce n'est pas fait manuellement dans l'Inspector,
-                // pour garantir que le script a le contrôle total de la taille.
                 allUITextComponents[i].enableAutoSizing = false;
             }
         }
-
-        Debug.Log("Composants de texte TMP trouvés : " + allUITextComponents.Length);
-
-        // CHARGEMENT DES RÉGLAGES
-        LoadSettings(); // Chargement des réglages sauvegardés au démarrage
+        Debug.Log("Composants de texte TMP trouvés et initialisés : " + allUITextComponents.Length);
     }
 
     // ---------- SECTION VISUELLE ----------
