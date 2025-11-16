@@ -26,7 +26,21 @@ public class ProfileManager : MonoBehaviour
         currentProfileToLoad = gameSequence[currentSequenceIndex];
         return currentProfileToLoad;
     }
+    [Header("Séquence Actuelle")]
+    public int CurrentSequenceIndex => currentSequenceIndex;
 
+    public void ResetSequence()
+    {
+        // Réinitialise l'index de la séquence à la première mission (0).
+        currentSequenceIndex = 0;
+
+        // Réinitialise le profil de chargement au premier élément.
+        if (gameSequence.Length > 0)
+        {
+            currentProfileToLoad = gameSequence[0];
+        }
+        Debug.Log("Séquence de jeu réinitialisée. Prochain profil : " + currentProfileToLoad.ToString());
+    }
 
     private void Awake()
     {
@@ -46,11 +60,4 @@ public class ProfileManager : MonoBehaviour
             currentProfileToLoad = gameSequence[0];
         }
     }
-
-    //// Fonction pour définir le prochain scénario (appelée à la fin d'une mission)
-    //public void SetNextProfile(PlayerProfile profile)
-    //{
-    //    nextProfileToLoad = profile;
-    //    Debug.Log("Prochain profil défini : " + profile.ToString());
-    //}
 }
