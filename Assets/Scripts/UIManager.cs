@@ -9,6 +9,7 @@ public class UIManager : MonoBehaviour
     [Header("Bouton de Retour des Réglages")]
     public GameObject returnToPauseButton;
     public GameObject returnToMainMenuButton;
+    public GameObject creditsScreen;
 
     // Réf. pour singleton
     public static UIManager Instance;
@@ -66,6 +67,18 @@ public class UIManager : MonoBehaviour
     {
         MainMenuPanel.SetActive(true );
         SettingsPanel.SetActive(false);
+    }
+
+    public void OnCreditClicked()
+    {
+        if (creditsScreen != null)
+            creditsScreen.SetActive(true);
+    }
+
+    public void CloseCreditsPanel()
+    {
+        if (creditsScreen != null)
+            creditsScreen.SetActive(false);
     }
 
     public void OpenAgefiphLink()
