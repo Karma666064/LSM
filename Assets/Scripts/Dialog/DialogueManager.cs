@@ -7,6 +7,7 @@ using System.Collections.Generic;
 
 public class DialogueManager : MonoBehaviour
 {
+    //PlayerState ps;
     // Réf. Singleton
     public static DialogueManager Instance;
 
@@ -28,12 +29,14 @@ public class DialogueManager : MonoBehaviour
     private bool isTyping = false;
 
     // Test Transition
-    [Header("Fin de Dialogue")]
-    public GameObject transitionButton;
-    public TextMeshProUGUI transitionButtonTextComponent;
+    //[Header("Fin de Dialogue")]
+    //public GameObject transitionButton;
+    //public TextMeshProUGUI transitionButtonTextComponent;
 
     private void Awake()
     {
+        //ps = GetComponent<PlayerState>();
+
         if(Instance == null)
         {
             Instance = this;
@@ -53,10 +56,10 @@ public class DialogueManager : MonoBehaviour
             dialoguePanel.SetActive(false);
         }
        // test transition cache le bouton au début
-        if (transitionButton != null) // Assurez-vous qu'il est désactivé
-        {
-            transitionButton.SetActive(false);
-        }
+        //if (transitionButton != null) // Assurez-vous qu'il est désactivé
+        //{
+        //    transitionButton.SetActive(false);
+        //}
     }
 
     public void StartDialogueSequence(DialogueSequence sequence)
@@ -67,18 +70,18 @@ public class DialogueManager : MonoBehaviour
         currentLineIndex = 0;
 
         // 1. Répare la référence du texte du bouton si elle est perdue (Problème #1)
-        if (transitionButton != null && transitionButtonTextComponent == null)
-        {
-            // Cherche le composant texte sur les enfants du bouton et l'assigne de manière persistante.
-            transitionButtonTextComponent = transitionButton.GetComponentInChildren<TextMeshProUGUI>();
-            Debug.Log("Référence texte du bouton rétablie.");
-        }
+        //if (transitionButton != null && transitionButtonTextComponent == null)
+        //{
+        //    // Cherche le composant texte sur les enfants du bouton et l'assigne de manière persistante.
+        //    transitionButtonTextComponent = transitionButton.GetComponentInChildren<TextMeshProUGUI>();
+        //    Debug.Log("Référence texte du bouton rétablie.");
+        //}
 
         // 2. Cache le bouton de transition (Essentiel pour chaque nouveau dialogue)
-        if (transitionButton != null)
-        {
-            transitionButton.SetActive(false);
-        }
+        //if (transitionButton != null)
+        //{
+        //    transitionButton.SetActive(false);
+        //}
 
         // 3. Active le panneau de dialogue
         dialoguePanel.SetActive(true);
@@ -97,21 +100,21 @@ public class DialogueManager : MonoBehaviour
 
         // Optionnel : refaire bouger le personnage ? 
         // C'est la ligne magique qui active le bouton tadadadadadaaaaaa
-        if (transitionButton != null)
-        {
-            transitionButton.SetActive(true);
-        }
-        // UTILISE LA RÉFÉRENCE PUBLIQUE
-        if (transitionButtonTextComponent != null)
-        {
-            transitionButtonTextComponent.gameObject.SetActive(true);
-            transitionButtonTextComponent.text = "Continuer l'Aventure";
+        //if (transitionButton != null)
+        //{
+        //    transitionButton.SetActive(true);
+        //}
+        //// UTILISE LA RÉFÉRENCE PUBLIQUE
+        //if (transitionButtonTextComponent != null)
+        //{
+        //    transitionButtonTextComponent.gameObject.SetActive(true);
+        //    transitionButtonTextComponent.text = "Continuer l'Aventure";
 
-        }
+        //}
 
     }
 
-    private void DisplayNextLine()
+    public void DisplayNextLine()
     {
         if (currentLineIndex >= currentSequence.lines.Count)
         {
@@ -132,6 +135,9 @@ public class DialogueManager : MonoBehaviour
 
     private IEnumerator TypeLine(string fullText)
     {
+        //if (!ps.isPausing)
+        //{
+        //}
         isTyping = true;
         foreach (char letter in fullText.ToCharArray())
         {
