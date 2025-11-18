@@ -101,7 +101,7 @@ public class UIManager : MonoBehaviour
     public void QuiGame()
     {
         //Pour le build finaux
-        // Applicatin.Quit()
+        Application.Quit();
 
         Debug.Log("Quitter le jeu...");
 #if UNITY_EDITOR
