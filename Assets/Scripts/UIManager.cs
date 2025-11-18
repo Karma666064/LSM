@@ -97,4 +97,15 @@ public class UIManager : MonoBehaviour
             PauseManager.Instance.SetInGame(false);
         }
     }
+
+    public void QuiGame()
+    {
+        //Pour le build finaux
+        // Applicatin.Quit()
+
+        Debug.Log("Quitter le jeu...");
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#endif
+    }
 }
