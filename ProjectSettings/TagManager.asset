@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Paper
+  - Library
+  - PNJ
+  - Desk
   layers:
   - Default
   - TransparentFX
@@ -14,7 +17,6 @@ TagManager:
   - UI
   - Ground
   - Interactable
-  - 
   - 
   - 
   - 
