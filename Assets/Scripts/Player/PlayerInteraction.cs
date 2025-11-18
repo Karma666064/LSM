@@ -10,7 +10,7 @@ public class PlayerInteraction : MonoBehaviour
     [SerializeField] LayerMask layerTarget;
 
     bool canInteraction = true;
-    bool canCancel = true;
+    //bool canCancel = true;
 
     private void Start()
     {
@@ -23,8 +23,8 @@ public class PlayerInteraction : MonoBehaviour
         if (buttons[0].isPressed) OnInteraction();
         else if (!buttons[0].isPressed && !canInteraction) canInteraction = true;
 
-        if (buttons[1].isPressed) OnCancel();
-        else if (!buttons[1].isPressed && !canCancel) canCancel = true;
+        //if (buttons[1].isPressed) OnCancel();
+        //else if (!buttons[1].isPressed && !canCancel) canCancel = true;
     }
 
     public void OnInteraction()
@@ -48,14 +48,14 @@ public class PlayerInteraction : MonoBehaviour
         }
     }
 
-    public void OnCancel()
-    {
-        if (canCancel && !ps.isDialoging)
-        {
-            Debug.Log("Cancel is fucking good!!!");
-            // Sortir d'une interaction ou annuler une action
+    //public void OnCancel()
+    //{
+    //    if (canCancel && !ps.isDialoging)
+    //    {
+    //        Debug.Log("Cancel is fucking good!!!");
+    //        // Sortir d'une interaction ou annuler une action
             
-            canCancel = false;
-        }
-    }
+    //        canCancel = false;
+    //    }
+    //}
 }
