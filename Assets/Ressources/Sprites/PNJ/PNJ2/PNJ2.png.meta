@@ -1,0 +1,8226 @@
+fileFormatVersion: 2
+guid: aab22c9f0755680429fae08af2f3a908
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -41317128610790582
+    second: PNJ2_0
+  - first:
+      213: 4892576672011641710
+    second: PNJ2_1
+  - first:
+      213: 1633660617178190500
+    second: PNJ2_2
+  - first:
+      213: -9212806922901002372
+    second: PNJ2_3
+  - first:
+      213: 5319533800500059020
+    second: PNJ2_4
+  - first:
+      213: -6631366247112763764
+    second: PNJ2_5
+  - first:
+      213: 8959149814206391331
+    second: PNJ2_6
+  - first:
+      213: 3179324635887384597
+    second: PNJ2_7
+  - first:
+      213: 8915877261832171844
+    second: PNJ2_8
+  - first:
+      213: -7241088403649857454
+    second: PNJ2_9
+  - first:
+      213: -6686763107261125406
+    second: PNJ2_10
+  - first:
+      213: 6781295605218081621
+    second: PNJ2_11
+  - first:
+      213: 6378268243216472999
+    second: PNJ2_12
+  - first:
+      213: 2716922911331668662
+    second: PNJ2_13
+  - first:
+      213: 5006054520392443452
+    second: PNJ2_14
+  - first:
+      213: 6854962928723105835
+    second: PNJ2_15
+  - first:
+      213: 5850761270908626037
+    second: PNJ2_16
+  - first:
+      213: 4120686328051687610
+    second: PNJ2_17
+  - first:
+      213: 3525719475405621991
+    second: PNJ2_18
+  - first:
+      213: 4397189237730117922
+    second: PNJ2_19
+  - first:
+      213: 2284627914261258535
+    second: PNJ2_20
+  - first:
+      213: -8358394285661636289
+    second: PNJ2_21
+  - first:
+      213: 1517162840316158501
+    second: PNJ2_22
+  - first:
+      213: -5807833557830917818
+    second: PNJ2_23
+  - first:
+      213: -566293557293765919
+    second: PNJ2_24
+  - first:
+      213: -6454579748452480627
+    second: PNJ2_25
+  - first:
+      213: 2597376030426607472
+    second: PNJ2_26
+  - first:
+      213: -7096979997316074303
+    second: PNJ2_27
+  - first:
+      213: -2261847351088904256
+    second: PNJ2_28
+  - first:
+      213: -5066464792720909146
+    second: PNJ2_29
+  - first:
+      213: -952902752921008886
+    second: PNJ2_30
+  - first:
+      213: -1716220348603466494
+    second: PNJ2_31
+  - first:
+      213: 8159206557689622254
+    second: PNJ2_32
+  - first:
+      213: 264977162857016667
+    second: PNJ2_33
+  - first:
+      213: -5140721520056241946
+    second: PNJ2_34
+  - first:
+      213: -5130198194724374407
+    second: PNJ2_35
+  - first:
+      213: -7456466044421837678
+    second: PNJ2_36
+  - first:
+      213: 4137442770882112167
+    second: PNJ2_37
+  - first:
+      213: 4949845551264431580
+    second: PNJ2_38
+  - first:
+      213: -2339544276512912914
+    second: PNJ2_39
+  - first:
+      213: -4673347351870096344
+    second: PNJ2_40
+  - first:
+      213: -2030034700022359525
+    second: PNJ2_41
+  - first:
+      213: -1006521644404976341
+    second: PNJ2_42
+  - first:
+      213: -6560067380097879884
+    second: PNJ2_43
+  - first:
+      213: 5774116498072650897
+    second: PNJ2_44
+  - first:
+      213: -7704218034582229139
+    second: PNJ2_45
+  - first:
+      213: -3291697093156756774
+    second: PNJ2_46
+  - first:
+      213: -6681775586417097630
+    second: PNJ2_47
+  - first:
+      213: -5163336133481692998
+    second: PNJ2_48
+  - first:
+      213: 2742185325030146392
+    second: PNJ2_49
+  - first:
+      213: -6685894052566951195
+    second: PNJ2_50
+  - first:
+      213: -5100200089087319354
+    second: PNJ2_51
+  - first:
+      213: 7323001394030828174
+    second: PNJ2_52
+  - first:
+      213: -2078168424372723965
+    second: PNJ2_53
+  - first:
+      213: -8092469156354491013
+    second: PNJ2_54
+  - first:
+      213: 4319544825930308752
+    second: PNJ2_55
+  - first:
+      213: -4623635228547283556
+    second: PNJ2_56
+  - first:
+      213: 366323570381089693
+    second: PNJ2_57
+  - first:
+      213: 7526872581882611809
+    second: PNJ2_58
+  - first:
+      213: 1142699617657974913
+    second: PNJ2_59
+  - first:
+      213: -1425648807623560526
+    second: PNJ2_60
+  - first:
+      213: -8988834538671513836
+    second: PNJ2_61
+  - first:
+      213: -3044238833297530396
+    second: PNJ2_62
+  - first:
+      213: 8346164629452064262
+    second: PNJ2_63
+  - first:
+      213: 3483946677248454076
+    second: PNJ2_64
+  - first:
+      213: -7696526478456910929
+    second: PNJ2_65
+  - first:
+      213: 668773490915311961
+    second: PNJ2_66
+  - first:
+      213: -2040337185855714974
+    second: PNJ2_67
+  - first:
+      213: 7383560136700706530
+    second: PNJ2_68
+  - first:
+      213: 711236245181261562
+    second: PNJ2_69
+  - first:
+      213: 8508541604936950890
+    second: PNJ2_70
+  - first:
+      213: 8407368184024489964
+    second: PNJ2_71
+  - first:
+      213: 3591157535490851123
+    second: PNJ2_72
+  - first:
+      213: 946148798907629687
+    second: PNJ2_73
+  - first:
+      213: -6155845855485168228
+    second: PNJ2_74
+  - first:
+      213: -8592601871591424715
+    second: PNJ2_75
+  - first:
+      213: -7785553263066004452
+    second: PNJ2_76
+  - first:
+      213: -2308109133500987779
+    second: PNJ2_77
+  - first:
+      213: -70088266595858283
+    second: PNJ2_78
+  - first:
+      213: -4006504017502413640
+    second: PNJ2_79
+  - first:
+      213: -9038752532260022698
+    second: PNJ2_80
+  - first:
+      213: -8659131863410046791
+    second: PNJ2_81
+  - first:
+      213: -2778489463661160569
+    second: PNJ2_82
+  - first:
+      213: -2256621189993833357
+    second: PNJ2_83
+  - first:
+      213: -6085824619218732492
+    second: PNJ2_84
+  - first:
+      213: -9119847749616884285
+    second: PNJ2_85
+  - first:
+      213: 4821015244525521921
+    second: PNJ2_86
+  - first:
+      213: 9030938167137036327
+    second: PNJ2_87
+  - first:
+      213: 8880204771574049317
+    second: PNJ2_88
+  - first:
+      213: -1620159877835646477
+    second: PNJ2_89
+  - first:
+      213: -767531916730506859
+    second: PNJ2_90
+  - first:
+      213: -7513612875122398721
+    second: PNJ2_91
+  - first:
+      213: -8345916341701223638
+    second: PNJ2_92
+  - first:
+      213: -19120848103287688
+    second: PNJ2_93
+  - first:
+      213: 9070471199954975448
+    second: PNJ2_94
+  - first:
+      213: -433468740050613742
+    second: PNJ2_95
+  - first:
+      213: 3944925639041726373
+    second: PNJ2_96
+  - first:
+      213: 3480215352132137307
+    second: PNJ2_97
+  - first:
+      213: 3290501191994655408
+    second: PNJ2_98
+  - first:
+      213: -6919695439468059094
+    second: PNJ2_99
+  - first:
+      213: 9222214370102145402
+    second: PNJ2_100
+  - first:
+      213: 1739696268496858239
+    second: PNJ2_101
+  - first:
+      213: 5862276983734851635
+    second: PNJ2_102
+  - first:
+      213: 6502474502421006592
+    second: PNJ2_103
+  - first:
+      213: -2347218491347524585
+    second: PNJ2_104
+  - first:
+      213: -8137162089479918989
+    second: PNJ2_105
+  - first:
+      213: 7419499087354175524
+    second: PNJ2_106
+  - first:
+      213: -5389801423451901503
+    second: PNJ2_107
+  - first:
+      213: 1622863207846905481
+    second: PNJ2_108
+  - first:
+      213: -3526473128211954916
+    second: PNJ2_109
+  - first:
+      213: -5172416343853736304
+    second: PNJ2_110
+  - first:
+      213: -2537672407846873193
+    second: PNJ2_111
+  - first:
+      213: -16263549392457363
+    second: PNJ2_112
+  - first:
+      213: -4720650853335440799
+    second: PNJ2_113
+  - first:
+      213: 5849521633168728948
+    second: PNJ2_114
+  - first:
+      213: 7603312407697254016
+    second: PNJ2_115
+  - first:
+      213: 2227387542198649704
+    second: PNJ2_116
+  - first:
+      213: -7881520899870308260
+    second: PNJ2_117
+  - first:
+      213: 7750294689142128551
+    second: PNJ2_118
+  - first:
+      213: 321640010269415423
+    second: PNJ2_119
+  - first:
+      213: -7403053585500376163
+    second: PNJ2_120
+  - first:
+      213: 5802403778113128110
+    second: PNJ2_121
+  - first:
+      213: 6427931533283609303
+    second: PNJ2_122
+  - first:
+      213: -4828886918064475995
+    second: PNJ2_123
+  - first:
+      213: -6743585018486155903
+    second: PNJ2_124
+  - first:
+      213: 8712156436152062741
+    second: PNJ2_125
+  - first:
+      213: -332870924491658466
+    second: PNJ2_126
+  - first:
+      213: 100560066902366474
+    second: PNJ2_127
+  - first:
+      213: -7886679722015572522
+    second: PNJ2_128
+  - first:
+      213: -8482875085050118183
+    second: PNJ2_129
+  - first:
+      213: -6573820175165049798
+    second: PNJ2_130
+  - first:
+      213: -1027896541206433607
+    second: PNJ2_131
+  - first:
+      213: -3557149625609577624
+    second: PNJ2_132
+  - first:
+      213: -5470719760205901985
+    second: PNJ2_133
+  - first:
+      213: 888529153822383923
+    second: PNJ2_134
+  - first:
+      213: -734667661534651405
+    second: PNJ2_135
+  - first:
+      213: 4612232779932927691
+    second: PNJ2_136
+  - first:
+      213: 8418547835784953907
+    second: PNJ2_137
+  - first:
+      213: 3849350618000477029
+    second: PNJ2_138
+  - first:
+      213: 4000648576630306353
+    second: PNJ2_139
+  - first:
+      213: 310871578005668652
+    second: PNJ2_140
+  - first:
+      213: -4457375613411345595
+    second: PNJ2_141
+  - first:
+      213: 3472697440270955969
+    second: PNJ2_142
+  - first:
+      213: -4668725463317791242
+    second: PNJ2_143
+  - first:
+      213: 8919815896488858834
+    second: PNJ2_144
+  - first:
+      213: -3003281109261905688
+    second: PNJ2_145
+  - first:
+      213: 8305053421888736931
+    second: PNJ2_146
+  - first:
+      213: -4808490228874986377
+    second: PNJ2_147
+  - first:
+      213: -3349894886383550518
+    second: PNJ2_148
+  - first:
+      213: 822136737516001616
+    second: PNJ2_149
+  - first:
+      213: -5175206024342401594
+    second: PNJ2_150
+  - first:
+      213: -2694117039248368360
+    second: PNJ2_151
+  - first:
+      213: 9217999807242643110
+    second: PNJ2_152
+  - first:
+      213: 397266882720898891
+    second: PNJ2_153
+  - first:
+      213: -5759028272426486669
+    second: PNJ2_154
+  - first:
+      213: -3815216471018329663
+    second: PNJ2_155
+  - first:
+      213: 7565920523051291610
+    second: PNJ2_156
+  - first:
+      213: 4605503705165295548
+    second: PNJ2_157
+  - first:
+      213: 4934367293129259585
+    second: PNJ2_158
+  - first:
+      213: 8732837733353444944
+    second: PNJ2_159
+  - first:
+      213: -5642899631761721129
+    second: PNJ2_160
+  - first:
+      213: -5994705824984851489
+    second: PNJ2_161
+  - first:
+      213: -4403458808050150997
+    second: PNJ2_162
+  - first:
+      213: -4523884438246157671
+    second: PNJ2_163
+  - first:
+      213: 2810450368631042304
+    second: PNJ2_164
+  - first:
+      213: 3299808096922150593
+    second: PNJ2_165
+  - first:
+      213: 6071629575912495894
+    second: PNJ2_166
+  - first:
+      213: 7420959169769066480
+    second: PNJ2_167
+  - first:
+      213: -653804411833382948
+    second: PNJ2_168
+  - first:
+      213: 3477196846249679795
+    second: PNJ2_169
+  - first:
+      213: 6486674703728546551
+    second: PNJ2_170
+  - first:
+      213: -8327113734788609540
+    second: PNJ2_171
+  - first:
+      213: -5830639398342194579
+    second: PNJ2_172
+  - first:
+      213: -3512665201939576523
+    second: PNJ2_173
+  - first:
+      213: -3114451607078314735
+    second: PNJ2_174
+  - first:
+      213: -3798670190985472739
+    second: PNJ2_175
+  - first:
+      213: 7475535833209825617
+    second: PNJ2_176
+  - first:
+      213: 4069247644945971465
+    second: PNJ2_177
+  - first:
+      213: 3284739169322560275
+    second: PNJ2_178
+  - first:
+      213: -7441732542154522613
+    second: PNJ2_179
+  - first:
+      213: -4966311910031822078
+    second: PNJ2_180
+  - first:
+      213: -224858095788137202
+    second: PNJ2_181
+  - first:
+      213: -1088889951625144193
+    second: PNJ2_182
+  - first:
+      213: -7851372706129708469
+    second: PNJ2_183
+  - first:
+      213: 746431733769988681
+    second: PNJ2_184
+  - first:
+      213: 1309863093427112964
+    second: PNJ2_185
+  - first:
+      213: -924829267151151678
+    second: PNJ2_186
+  - first:
+      213: -7717931443044660522
+    second: PNJ2_187
+  - first:
+      213: -6905126299320378838
+    second: PNJ2_188
+  - first:
+      213: 8881118425123095041
+    second: PNJ2_189
+  - first:
+      213: -6124747217245054519
+    second: PNJ2_190
+  - first:
+      213: -2788162317959903774
+    second: PNJ2_191
+  - first:
+      213: 3369921469442977999
+    second: PNJ2_192
+  - first:
+      213: 1270066538729827955
+    second: PNJ2_193
+  - first:
+      213: -612424103067628702
+    second: PNJ2_194
+  - first:
+      213: -4345257479648058582
+    second: PNJ2_195
+  - first:
+      213: -8914426186180785424
+    second: PNJ2_196
+  - first:
+      213: 6887294794275068330
+    second: PNJ2_197
+  - first:
+      213: 9033490154791290442
+    second: PNJ2_198
+  - first:
+      213: -7377331073168420682
+    second: PNJ2_199
+  - first:
+      213: 6405547501434153617
+    second: PNJ2_200
+  - first:
+      213: 3556992839185761052
+    second: PNJ2_201
+  - first:
+      213: 2196966692476902077
+    second: PNJ2_202
+  - first:
+      213: 5905453167913577760
+    second: PNJ2_203
+  - first:
+      213: 3243007992842386102
+    second: PNJ2_204
+  - first:
+      213: -760506684239811692
+    second: PNJ2_205
+  - first:
+      213: -6896367863231556351
+    second: PNJ2_206
+  - first:
+      213: 1896272223238462382
+    second: PNJ2_207
+  - first:
+      213: -8962985264092747129
+    second: PNJ2_208
+  - first:
+      213: 3371961479853245268
+    second: PNJ2_209
+  - first:
+      213: 8118602429186166496
+    second: PNJ2_210
+  - first:
+      213: 2307583715689575074
+    second: PNJ2_211
+  - first:
+      213: 7750451800810390609
+    second: PNJ2_212
+  - first:
+      213: 3971178146375531799
+    second: PNJ2_213
+  - first:
+      213: -967755476710033424
+    second: PNJ2_214
+  - first:
+      213: 6331875623611304746
+    second: PNJ2_215
+  - first:
+      213: -4427776620289016485
+    second: PNJ2_216
+  - first:
+      213: 2398072626357539071
+    second: PNJ2_217
+  - first:
+      213: 8562332763231512726
+    second: PNJ2_218
+  - first:
+      213: 163005432618115270
+    second: PNJ2_219
+  - first:
+      213: -6207526369217753254
+    second: PNJ2_220
+  - first:
+      213: 5471770067662893895
+    second: PNJ2_221
+  - first:
+      213: -8057980462137610556
+    second: PNJ2_222
+  - first:
+      213: -1193250552348916426
+    second: PNJ2_223
+  - first:
+      213: -7509538643922400533
+    second: PNJ2_224
+  - first:
+      213: 3545892504119379378
+    second: PNJ2_225
+  - first:
+      213: -8901698023893226455
+    second: PNJ2_226
+  - first:
+      213: -7569324965191053594
+    second: PNJ2_227
+  - first:
+      213: -4922304378136092737
+    second: PNJ2_228
+  - first:
+      213: 8435664306180571960
+    second: PNJ2_229
+  - first:
+      213: 6712746629250421151
+    second: PNJ2_230
+  - first:
+      213: 9056740512084982363
+    second: PNJ2_231
+  - first:
+      213: -7620464271485171651
+    second: PNJ2_232
+  - first:
+      213: -5971532483795605355
+    second: PNJ2_233
+  - first:
+      213: 5184025727335604985
+    second: PNJ2_234
+  - first:
+      213: 4326943708651054148
+    second: PNJ2_235
+  - first:
+      213: 5617280836224275666
+    second: PNJ2_236
+  - first:
+      213: 1265441360849754874
+    second: PNJ2_237
+  - first:
+      213: 1767782941829255984
+    second: PNJ2_238
+  - first:
+      213: -5602473939710225901
+    second: PNJ2_239
+  - first:
+      213: -6681619583987673849
+    second: PNJ2_240
+  - first:
+      213: 2934886465102052418
+    second: PNJ2_241
+  - first:
+      213: -2699278243896731096
+    second: PNJ2_242
+  - first:
+      213: -273568493069601093
+    second: PNJ2_243
+  - first:
+      213: -3033982642131842298
+    second: PNJ2_244
+  - first:
+      213: 7787292687703604302
+    second: PNJ2_245
+  - first:
+      213: -4582889025020416787
+    second: PNJ2_246
+  - first:
+      213: -1717257505587450102
+    second: PNJ2_247
+  - first:
+      213: -4029097453820813637
+    second: PNJ2_248
+  - first:
+      213: -3836502116467879831
+    second: PNJ2_249
+  - first:
+      213: -4390778396109462728
+    second: PNJ2_250
+  - first:
+      213: -2424983624611204936
+    second: PNJ2_251
+  - first:
+      213: -9118536582865425285
+    second: PNJ2_252
+  - first:
+      213: 2849232139806408565
+    second: PNJ2_253
+  - first:
+      213: -3927437508303442016
+    second: PNJ2_254
+  - first:
+      213: -7097479444436220374
+    second: PNJ2_255
+  - first:
+      213: 4921228505832887785
+    second: PNJ2_256
+  - first:
+      213: -8821688771435678451
+    second: PNJ2_257
+  - first:
+      213: -3293242467370377836
+    second: PNJ2_258
+  - first:
+      213: 4431357046895799272
+    second: PNJ2_259
+  - first:
+      213: -3162037646142174471
+    second: PNJ2_260
+  - first:
+      213: 7245661364134062168
+    second: PNJ2_261
+  - first:
+      213: 7861418806803984201
+    second: PNJ2_262
+  - first:
+      213: -3778656094697899356
+    second: PNJ2_263
+  - first:
+      213: -1823103979557697260
+    second: PNJ2_264
+  - first:
+      213: 4756994539993410443
+    second: PNJ2_265
+  - first:
+      213: 1090866485178409087
+    second: PNJ2_266
+  - first:
+      213: 8480816341078299391
+    second: PNJ2_267
+  - first:
+      213: 8888782072528528361
+    second: PNJ2_268
+  - first:
+      213: -1857679636268940453
+    second: PNJ2_269
+  - first:
+      213: 6071505617301222460
+    second: PNJ2_270
+  - first:
+      213: 8458242016368414997
+    second: PNJ2_271
+  - first:
+      213: 4847192753291211867
+    second: PNJ2_272
+  - first:
+      213: -276551329117833339
+    second: PNJ2_273
+  - first:
+      213: 4748415460029531444
+    second: PNJ2_274
+  - first:
+      213: -825591840873890812
+    second: PNJ2_275
+  - first:
+      213: 3444666140724959584
+    second: PNJ2_276
+  - first:
+      213: 8600556850798115024
+    second: PNJ2_277
+  - first:
+      213: -3944127514428283595
+    second: PNJ2_278
+  - first:
+      213: -6041477735536901259
+    second: PNJ2_279
+  - first:
+      213: -8405863212980458245
+    second: PNJ2_280
+  - first:
+      213: -8458209801378074381
+    second: PNJ2_281
+  - first:
+      213: 7940544987213603130
+    second: PNJ2_282
+  - first:
+      213: -8464070274455857796
+    second: PNJ2_283
+  - first:
+      213: 8651690716451349411
+    second: PNJ2_284
+  - first:
+      213: -4433913513724119670
+    second: PNJ2_285
+  - first:
+      213: -1182705596213549801
+    second: PNJ2_286
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PNJ2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43c30a5a463d6ff0800000000000000
+      internalID: -41317128610790582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 607
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63ed9baf8ce5e340800000000000000
+      internalID: 4892576672011641710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 607
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a293720dadeba610800000000000000
+      internalID: 1633660617178190500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77e9384ae8852080800000000000000
+      internalID: -9212806922901002372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 575
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b5d75bec7c2d940800000000000000
+      internalID: 5319533800500059020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 575
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8614516887a8f3a0800000000000000
+      internalID: -6631366247112763764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 575
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3246745d94b455c70800000000000000
+      internalID: 8959149814206391331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 575
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51837bb59ea3f1c20800000000000000
+      internalID: 3179324635887384597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 575
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4413d7c912f8bbb70800000000000000
+      internalID: 8915877261832171844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 606
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ff39367c728b90800000000000000
+      internalID: -7241088403649857454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 575
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec6386c168d333a0800000000000000
+      internalID: -6686763107261125406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 575
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bf0f19c600c1e50800000000000000
+      internalID: 6781295605218081621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 575
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab92177c29248850800000000000000
+      internalID: 6378268243216472999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 575
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b25b043ef274b520800000000000000
+      internalID: 2716922911331668662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 575
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36ea362014197540800000000000000
+      internalID: 5006054520392443452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 601
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28130be678b12f50800000000000000
+      internalID: 6854962928723105835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5742f129064123150800000000000000
+      internalID: 5850761270908626037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 544
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0645e026e9f2930800000000000000
+      internalID: 4120686328051687610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 543
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea8a3dce2fdde030800000000000000
+      internalID: 3525719475405621991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 543
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229031d7054f50d30800000000000000
+      internalID: 4397189237730117922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 544
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721eb79cbf0a4bf10800000000000000
+      internalID: 2284627914261258535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 543
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39bb7e8ea4010c80800000000000000
+      internalID: -8358394285661636289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 604
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522a773a09b0e0510800000000000000
+      internalID: 1517162840316158501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 511
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64125ee762e666fa0800000000000000
+      internalID: -5807833557830917818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 511
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaa9ee820f1428f0800000000000000
+      internalID: -566293557293765919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 544
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d894f07aae9bc66a0800000000000000
+      internalID: -6454579748452480627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 543
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f21b9fcbbbb0420800000000000000
+      internalID: 2597376030426607472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 543
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c43ce93b46728d90800000000000000
+      internalID: -7096979997316074303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7003661dd4c90e0800000000000000
+      internalID: -2261847351088904256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 508
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acd8d24d1d40b9b0800000000000000
+      internalID: -5066464792720909146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 97
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05c6a2befb96c2f0800000000000000
+      internalID: -952902752921008886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 524
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d71359fa2ce28e0800000000000000
+      internalID: -1716220348603466494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 528
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeea02882235b3170800000000000000
+      internalID: 8159206557689622254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 511
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5deea163536da300800000000000000
+      internalID: 264977162857016667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 515
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e077d3a30d78a8b0800000000000000
+      internalID: -5140721520056241946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 520
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9787a104cefddc8b0800000000000000
+      internalID: -5130198194724374407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c697e73af458890800000000000000
+      internalID: -7456466044421837678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 480
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaafec67462b6930800000000000000
+      internalID: 4137442770882112167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 480
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddf920bd4261b440800000000000000
+      internalID: 4949845551264431580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 480
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9462e30e4488fd0800000000000000
+      internalID: -2339544276512912914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 480
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c35cb085fe42fb0800000000000000
+      internalID: -4673347351870096344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 480
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a5377223ed3d3e0800000000000000
+      internalID: -2030034700022359525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25df7ea5ed1802f0800000000000000
+      internalID: -1006521644404976341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b073aa7975f5f4a0800000000000000
+      internalID: -6560067380097879884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194c757cc58c12050800000000000000
+      internalID: 5774116498072650897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f6198248e151590800000000000000
+      internalID: -7704218034582229139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a4361fea8152d0800000000000000
+      internalID: -3291697093156756774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 480
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2644bb671809543a0800000000000000
+      internalID: -6681775586417097630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab082e3a4252858b0800000000000000
+      internalID: -5163336133481692998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 448
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85106be36033e0620800000000000000
+      internalID: 2742185325030146392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_50
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 448
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea99d658cee633a0800000000000000
+      internalID: -6685894052566951195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 448
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2e88e7a037839b0800000000000000
+      internalID: -5100200089087319354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_52
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 448
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ad5ec08f680a560800000000000000
+      internalID: 7323001394030828174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 448
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f94d124dcd823e0800000000000000
+      internalID: -2078168424372723965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d7fa39d26c1bf80800000000000000
+      internalID: -8092469156354491013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cd3fc122b12fb30800000000000000
+      internalID: 4319544825930308752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c950577b14c85dfb0800000000000000
+      internalID: -4623635228547283556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bea6da851751500800000000000000
+      internalID: 366323570381089693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1688db0fbb2d47860800000000000000
+      internalID: 7526872581882611809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1807a7b7f3fabdf00800000000000000
+      internalID: 1142699617657974913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 193
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2732f76f3173ce0800000000000000
+      internalID: -1425648807623560526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 193
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fd8b9ac9e314380800000000000000
+      internalID: -8988834538671513836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1e9d109e0b0c5d0800000000000000
+      internalID: -3044238833297530396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_63
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6068b67b28883d370800000000000000
+      internalID: 8346164629452064262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdebc15b07795030800000000000000
+      internalID: 3483946677248454076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_65
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab003f12f1703590800000000000000
+      internalID: -7696526478456910929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951843952f5f74900800000000000000
+      internalID: 668773490915311961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269cc0fb3244fa3e0800000000000000
+      internalID: -2040337185855714974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_68
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeb7c513dca77660800000000000000
+      internalID: 7383560136700706530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_69
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af66961c891ded900800000000000000
+      internalID: 711236245181261562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_70
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 386
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6426ee6289641670800000000000000
+      internalID: 8508541604936950890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_71
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 387
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef53b8b1d8fca470800000000000000
+      internalID: 8407368184024489964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_72
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 386
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331466370ca56d130800000000000000
+      internalID: 3591157535490851123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_73
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 386
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7704d87d155612d00800000000000000
+      internalID: 946148798907629687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95febb3fca029aa0800000000000000
+      internalID: -6155845855485168228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_75
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 352
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dbf639f12f0c880800000000000000
+      internalID: -8592601871591424715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 351
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14411f8e8824f390800000000000000
+      internalID: -7785553263066004452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 351
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76c6d2d8f2f7ffd0800000000000000
+      internalID: -2308109133500987779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 352
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59881a6c71ff60ff0800000000000000
+      internalID: -70088266595858283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 351
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd79dc2d90668c0800000000000000
+      internalID: -4006504017502413640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_80
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6569af51676ef8280800000000000000
+      internalID: -9038752532260022698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 351
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88d22c27594d780800000000000000
+      internalID: -8659131863410046791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7879f4acd82d079d0800000000000000
+      internalID: -2778489463661160569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_83
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 351
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c5cc9dbfedea0e0800000000000000
+      internalID: -2256621189993833357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 351
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43af32eb0ceca8ba0800000000000000
+      internalID: -6085824619218732492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5a07e6acacf6180800000000000000
+      internalID: -9119847749616884285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 351
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ccfa272dfa7e240800000000000000
+      internalID: 4821015244525521921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_87
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72868b04a66545d70800000000000000
+      internalID: 9030938167137036327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_88
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a666eb033dc3b70800000000000000
+      internalID: 8880204771574049317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f91442dc290489e0800000000000000
+      internalID: -1620159877835646477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_90
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 355
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591e08dc9cd2955f0800000000000000
+      internalID: -767531916730506859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_91
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 355
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9278e16e84ab790800000000000000
+      internalID: -7513612875122398721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_92
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 355
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b55c74e495d2c80800000000000000
+      internalID: -8345916341701223638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_93
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874dff0a0b11cbff0800000000000000
+      internalID: -19120848103287688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_94
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3ababf79c0ed70800000000000000
+      internalID: 9070471199954975448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_95
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a0c004a720cf9f0800000000000000
+      internalID: -433468740050613742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_96
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 351
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7b964b7f03fb630800000000000000
+      internalID: 3944925639041726373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_97
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 351
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5172bd7c653c4030800000000000000
+      internalID: 3480215352132137307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_98
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 351
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b247d976653aad20800000000000000
+      internalID: 3290501191994655408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26ad90f8ad48ff90800000000000000
+      internalID: -6919695439468059094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71f074bb13ebff70800000000000000
+      internalID: 9222214370102145402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_101
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ce3d4f984a42810800000000000000
+      internalID: 1739696268496858239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_102
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 319
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338d6766bddfa5150800000000000000
+      internalID: 5862276983734851635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_103
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 319
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009c6ddbb1e6d3a50800000000000000
+      internalID: 6502474502421006592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 319
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714a00dd7310d6fd0800000000000000
+      internalID: -2347218491347524585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_105
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a26c0313ef21f80800000000000000
+      internalID: -8137162089479918989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_106
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420a4191c1b57f660800000000000000
+      internalID: 7419499087354175524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1314969249335b0800000000000000
+      internalID: -5389801423451901503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_108
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98604ce3d71958610800000000000000
+      internalID: 1622863207846905481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_109
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1347fabf537f0fc0800000000000000
+      internalID: -3526473128211954916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_110
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e5c2a6db2e738b0800000000000000
+      internalID: -5172416343853736304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_111
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 194
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7971af5e36068ccd0800000000000000
+      internalID: -2537672407846873193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61fca3536836cff0800000000000000
+      internalID: -16263549392457363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162eb4a5f01ec7eb0800000000000000
+      internalID: -4720650853335440799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_114
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 319
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4732cfaeeecad2150800000000000000
+      internalID: 5849521633168728948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_115
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 319
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0866d19c954648960800000000000000
+      internalID: 7603312407697254016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_116
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 319
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86381ed1b2549ee10800000000000000
+      internalID: 2227387542198649704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_117
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 319
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58c969ef763f9290800000000000000
+      internalID: -7881520899870308260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_118
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afb9eaf4f39e8b60800000000000000
+      internalID: 7750294689142128551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_119
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff759ad92e1b67400800000000000000
+      internalID: 321640010269415423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93711facf1134990800000000000000
+      internalID: -7403053585500376163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_121
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea641d56e77468050800000000000000
+      internalID: 5802403778113128110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_122
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 319
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dac6e14ca9943950800000000000000
+      internalID: 6427931533283609303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_123
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 319
+        width: 209
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a07c3cbee85cfcb0800000000000000
+      internalID: -4828886918064475995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1859c7c9729f962a0800000000000000
+      internalID: -6743585018486155903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_125
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5131a74ae1cc7e870800000000000000
+      internalID: 8712156436152062741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_126
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b6e9568a7616bf0800000000000000
+      internalID: -332870924491658466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_127
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091e4a19d2456100800000000000000
+      internalID: 100560066902366474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_128
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd3cf70492ec8290800000000000000
+      internalID: -7886679722015572522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_129
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df7399ed06c64a80800000000000000
+      internalID: -8482875085050118183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_130
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34bdf9516915c4a0800000000000000
+      internalID: -6573820175165049798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_131
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 287
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0b983ba8d2cb1f0800000000000000
+      internalID: -1027896541206433607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_132
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 162
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b90a8134772aec0800000000000000
+      internalID: -3557149625609577624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f873bfc591414b0800000000000000
+      internalID: -5470719760205901985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_134
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f592ace80b45c00800000000000000
+      internalID: 888529153822383923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_135
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb924e77afedc5f0800000000000000
+      internalID: -734667661534651405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_136
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc68055d641f10040800000000000000
+      internalID: 4612232779932927691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_137
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330889c37a0b4d470800000000000000
+      internalID: 8418547835784953907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_138
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b49d90ef3ab6530800000000000000
+      internalID: 3849350618000477029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 287
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136b8312fa8258730800000000000000
+      internalID: 4000648576630306353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_140
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 287
+        width: 177
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c230bc99d00705400800000000000000
+      internalID: 310871578005668652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_141
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 289
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb02cee783422c0800000000000000
+      internalID: -4457375613411345595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_142
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 289
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c532cb3cef713030800000000000000
+      internalID: 3472697440270955969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd3f155dea553fb0800000000000000
+      internalID: -4668725463317791242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_144
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4d9147c4d89cb70800000000000000
+      internalID: 8919815896488858834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_145
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e09dc14eb33256d0800000000000000
+      internalID: -3003281109261905688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_146
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae025cc51a714370800000000000000
+      internalID: 8305053421888736931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_147
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c38f10d9fc44db0800000000000000
+      internalID: -4808490228874986377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_148
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff53e6958c281d0800000000000000
+      internalID: -3349894886383550518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_149
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0599074c101d86b00800000000000000
+      internalID: 822136737516001616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_150
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd0c9f4a89fd28b0800000000000000
+      internalID: -5175206024342401594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_151
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d164ca3d29c9ad0800000000000000
+      internalID: -2694117039248368360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_152
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a621525cf9ecef70800000000000000
+      internalID: 9217999807242643110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_153
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f1b910020638500800000000000000
+      internalID: 397266882720898891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_154
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37476928c42d310b0800000000000000
+      internalID: -5759028272426486669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_155
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9abbf55d0ad0bc0800000000000000
+      internalID: -3815216471018329663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_156
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad35f4731ac8ff860800000000000000
+      internalID: 7565920523051291610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_157
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 255
+        width: 226
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf6f1608390aef30800000000000000
+      internalID: 4605503705165295548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a7642e8e46a7440800000000000000
+      internalID: 4934367293129259585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_159
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056d8a166a5413970800000000000000
+      internalID: 8732837733353444944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_160
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8f8a9aea460b1b0800000000000000
+      internalID: -5642899631761721129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_161
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb10d040d68ecca0800000000000000
+      internalID: -5994705824984851489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_162
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba11b1b6b85c3e2c0800000000000000
+      internalID: -4403458808050150997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_163
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9929b6d621fe731c0800000000000000
+      internalID: -4523884438246157671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_164
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0017e1948b9b00720800000000000000
+      internalID: 2810450368631042304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_165
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6a0042bf54bcd20800000000000000
+      internalID: 3299808096922150593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_166
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b15003ee2c24450800000000000000
+      internalID: 6071629575912495894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_167
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff43c60c0b8cf660800000000000000
+      internalID: 7420959169769066480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_168
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd78618f9583de6f0800000000000000
+      internalID: -653804411833382948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_169
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb12d2db1c714030800000000000000
+      internalID: 3477196846249679795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f29041764c450a50800000000000000
+      internalID: 6486674703728546551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_171
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 255
+        width: 240
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf906a95d26207c80800000000000000
+      internalID: -8327113734788609540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a8a68fb58651fa0800000000000000
+      internalID: -5830639398342194579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_173
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53904871c91804fc0800000000000000
+      internalID: -3512665201939576523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_174
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dd3f1b3ce37c4d0800000000000000
+      internalID: -3114451607078314735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_175
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1512776699684bc0800000000000000
+      internalID: -3798670190985472739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_176
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ec24bb307eb760800000000000000
+      internalID: 7475535833209825617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_177
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909791c5c2fd87830800000000000000
+      internalID: 4069247644945971465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_178
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b68470fdcb59d20800000000000000
+      internalID: 3284739169322560275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_179
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b004a6f4ea7a9b890800000000000000
+      internalID: -7441732542154522613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_180
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203f2c661ad141bb0800000000000000
+      internalID: -4966311910031822078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_181
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 223
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e056da3d0c421ecf0800000000000000
+      internalID: -224858095788137202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_182
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7814e1bb5c73e0f0800000000000000
+      internalID: -1088889951625144193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_183
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4af0f34f125a0390800000000000000
+      internalID: -7851372706129708469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_184
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a607405bbdb5a00800000000000000
+      internalID: 746431733769988681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_185
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c0e142b819d2210800000000000000
+      internalID: 1309863093427112964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_186
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 226
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd12957ea85a23f0800000000000000
+      internalID: -924829267151151678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_187
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da41807e3664e490800000000000000
+      internalID: -7717931443044660522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_188
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a1dc737301c20a0800000000000000
+      internalID: -6905126299320378838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_189
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10283a94722104b70800000000000000
+      internalID: 8881118425123095041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_190
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9db013bd6800ba0800000000000000
+      internalID: -6124747217245054519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_191
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5ced5e4257e49d0800000000000000
+      internalID: -2788162317959903774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_192
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc07c1bc8bd54ce20800000000000000
+      internalID: 3369921469442977999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_193
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ee912b9ce20a110800000000000000
+      internalID: 1270066538729827955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_194
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b44c4e58b3087f0800000000000000
+      internalID: -612424103067628702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_195
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e7fb285b82b3c0800000000000000
+      internalID: -4345257479648058582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_196
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 223
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa01444d98994480800000000000000
+      internalID: -8914426186180785424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_197
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9992cff16949f50800000000000000
+      internalID: 6887294794275068330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_198
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 223
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46c25e2f676d5d70800000000000000
+      internalID: 9033490154791290442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_199
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05859c9747e9990800000000000000
+      internalID: -7377331073168420682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_200
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 223
+        width: 240
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aafd6b38315e850800000000000000
+      internalID: 6405547501434153617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_201
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c138648342afc5130800000000000000
+      internalID: 3556992839185761052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_202
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba537811913d7e10800000000000000
+      internalID: 2196966692476902077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_203
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02da1372e5264f150800000000000000
+      internalID: 5905453167913577760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_204
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba7f19569a710d20800000000000000
+      internalID: 3243007992842386102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_205
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b639433332275f0800000000000000
+      internalID: -760506684239811692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_206
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105d9a787fd2b40a0800000000000000
+      internalID: -6896367863231556351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_207
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 98
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab91974a89e05a10800000000000000
+      internalID: 1896272223238462382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ae0b6e3641d9380800000000000000
+      internalID: -8962985264092747129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_209
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45304fab91d9bce20800000000000000
+      internalID: 3371961479853245268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_210
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 191
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eec34825e11ba070800000000000000
+      internalID: 8118602429186166496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_211
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2372fc92f260020800000000000000
+      internalID: 2307583715689575074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_212
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 191
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154071469d22f8b60800000000000000
+      internalID: 7750451800810390609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_213
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 191
+        width: 113
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71df182eb757c1730800000000000000
+      internalID: 3971178146375531799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f772457587d192f0800000000000000
+      internalID: -967755476710033424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_215
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b8e4bf4575fd750800000000000000
+      internalID: 6331875623611304746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_216
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5db4ea8f906d82c0800000000000000
+      internalID: -4427776620289016485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_217
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 159
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff011af195aa74120800000000000000
+      internalID: 2398072626357539071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_218
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6986a11784483d670800000000000000
+      internalID: 8562332763231512726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_219
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c069abc39c134200800000000000000
+      internalID: 163005432618115270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_220
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 98
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fc7e4f7af6ad9a0800000000000000
+      internalID: -6207526369217753254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_221
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 159
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74379a7c2e1afeb40800000000000000
+      internalID: 5471770067662893895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_222
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceef33767d4c2090800000000000000
+      internalID: -8057980462137610556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635443bd1f8b07fe0800000000000000
+      internalID: -1193250552348916426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_224
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beacfedf362c8c790800000000000000
+      internalID: -7509538643922400533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b581cf027a853130800000000000000
+      internalID: 3545892504119379378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_226
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 159
+        width: 113
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c2c0c7fc0d67480800000000000000
+      internalID: -8901698023893226455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee8a445c0b54f690800000000000000
+      internalID: -7569324965191053594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_228
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf19d06f3670bbb0800000000000000
+      internalID: -4922304378136092737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_229
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833c55e0eff711570800000000000000
+      internalID: 8435664306180571960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_230
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f911caf5e77782d50800000000000000
+      internalID: 6712746629250421151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_231
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5af6b5d28100bd70800000000000000
+      internalID: 9056740512084982363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_232
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38029abe1cae3690800000000000000
+      internalID: -7620464271485171651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_233
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 98
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59828a238dad02da0800000000000000
+      internalID: -5971532483795605355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_234
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f22350deeb51f740800000000000000
+      internalID: 5184025727335604985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_235
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444e14db0646c0c30800000000000000
+      internalID: 4326943708651054148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_236
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4d1cea82794fd40800000000000000
+      internalID: 5617280836224275666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_237
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 127
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa598d8630cf8110800000000000000
+      internalID: 1265441360849754874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_238
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 127
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0335abf283d688810800000000000000
+      internalID: 1767782941829255984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_239
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 127
+        width: 113
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312503092a30042b0800000000000000
+      internalID: -5602473939710225901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_240
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7051f1c936e1643a0800000000000000
+      internalID: -6681619583987673849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_241
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c7288b0bfcab820800000000000000
+      internalID: 2934886465102052418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_242
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a58921dbc3a8ad0800000000000000
+      internalID: -2699278243896731096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_243
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 129
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6f8dca7e6143cf0800000000000000
+      internalID: -273568493069601093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_244
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 128
+        width: 74
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bc7099cd025e5d0800000000000000
+      internalID: -3033982642131842298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_245
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 129
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cf19cc075021c60800000000000000
+      internalID: 7787292687703604302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_246
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec2f9286be4660c0800000000000000
+      internalID: -4582889025020416787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_247
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f2697a5631b28e0800000000000000
+      internalID: -1717257505587450102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_248
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 129
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe549b7635c518c0800000000000000
+      internalID: -4029097453820813637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_249
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960d5e7d6a102cac0800000000000000
+      internalID: -3836502116467879831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_250
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 127
+        width: 62
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833af64ef42d013c0800000000000000
+      internalID: -4390778396109462728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_251
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0f8e4dd3ab85ed0800000000000000
+      internalID: -2424983624611204936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ce6ea3a43747180800000000000000
+      internalID: -9118536582865425285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_253
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f79c709818a8720800000000000000
+      internalID: 2849232139806408565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_254
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af27080560fe79c0800000000000000
+      internalID: -3927437508303442016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_255
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a260eb1ac00b08d90800000000000000
+      internalID: -7097479444436220374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_256
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e512b49047bb4440800000000000000
+      internalID: 4921228505832887785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_257
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05368b3dc0139580800000000000000
+      internalID: -8821688771435678451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_258
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d582d9c6d0c42d0800000000000000
+      internalID: -3293242467370377836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_259
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebe52d71c75f7d30800000000000000
+      internalID: 4431357046895799272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_260
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 95
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa8847938f2e14d0800000000000000
+      internalID: -3162037646142174471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858abfb1f92cd8460800000000000000
+      internalID: 7245661364134062168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_262
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f6022d0ce591d60800000000000000
+      internalID: 7861418806803984201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_263
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaba235d448f8bc0800000000000000
+      internalID: -3778656094697899356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_264
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419ccddf69803b6e0800000000000000
+      internalID: -1823103979557697260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_265
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ba7ca945d340240800000000000000
+      internalID: 4756994539993410443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_266
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f702072e949832f00800000000000000
+      internalID: 1090866485178409087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_267
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2dc476789e1b570800000000000000
+      internalID: 8480816341078299391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_268
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e36cee333c4b5b70800000000000000
+      internalID: 8888782072528528361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_269
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5386b596323836e0800000000000000
+      internalID: -1857679636268940453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_270
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c343703d032524450800000000000000
+      internalID: 6071505617301222460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_271
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5115ce9dc46b16570800000000000000
+      internalID: 8458242016368414997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_272
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5435c9a020b44340800000000000000
+      internalID: 4847192753291211867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_273
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 114
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587f4c9080e792cf0800000000000000
+      internalID: -276551329117833339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_274
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4358805e3b2c5e140800000000000000
+      internalID: 4748415460029531444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_275
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c304b4898ea84f0800000000000000
+      internalID: -825591840873890812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_276
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0691ab7ba99edcf20800000000000000
+      internalID: 3444666140724959584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_277
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8bf5a53e05b5770800000000000000
+      internalID: 8600556850798115024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_278
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 75
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53568a92ce4a349c0800000000000000
+      internalID: -3944127514428283595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57344e6320c582ca0800000000000000
+      internalID: -6041477735536901259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_280
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca6c7a1ff585b80800000000000000
+      internalID: -8405863212980458245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_281
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0f129cff66e9a80800000000000000
+      internalID: -8458209801378074381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_282
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3120e5589b723e60800000000000000
+      internalID: 7940544987213603130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_283
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c759d111ee4998a80800000000000000
+      internalID: -8464070274455857796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_284
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3a0a43edaf01870800000000000000
+      internalID: 8651690716451349411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_285
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a857ba1b6239772c0800000000000000
+      internalID: -4433913513724119670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_286
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71523d7c68f269fe0800000000000000
+      internalID: -1182705596213549801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_287
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 544
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add053e7a28bd8458ce0c9e96f95b32
+      internalID: -464317649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_288
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 575
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b590edf84e04c8c458cb817627191aa3
+      internalID: 925283840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_289
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72109a0e0bf6944ca24452ae1b33a0e
+      internalID: 961772677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_290
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9bb71d252c04f438fc5d47ecfd5d21
+      internalID: 1052666242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_291
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3423b6206b7af084482928d5fcf683d3
+      internalID: -1378929654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_292
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c3121072bd66246aa9106357939931
+      internalID: -1707335801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_293
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cbd822875c98d468f3038e60473a8d
+      internalID: 2009807947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_294
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a167ba85c15ec418d51b6ad8153de6
+      internalID: -900934770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_295
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a9de51ec753c46a3a21b7c9271e67
+      internalID: 2016028039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_296
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 544
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaad419dba5aad409c84fde7741f42e
+      internalID: -599086950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_297
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91461cdc03bc684883dfeba58947128
+      internalID: 189584218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_298
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 544
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c576ff19f904f7f4593929af598e3b7e
+      internalID: -1372201969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_299
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1b55a7848f3074db553fdc6438a778
+      internalID: 2099518700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_300
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 544
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2329acf6406914a49b3f692aa7510b76
+      internalID: -304375111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_301
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 628
+        width: 87
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9babe59054bc4d45bb2af7a257e7416
+      internalID: 941986615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_302
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 543
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b6105c752db824fbddddab207bc35b
+      internalID: -487356948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_303
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abcfe59ad17b014bb9e892d28fd6948
+      internalID: 1336444188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_304
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7c7a56e2022b44da2504a345dd43f2
+      internalID: 414559526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_305
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b29b969b67628240b79ef96f6ad0574
+      internalID: -1557623005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_306
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5407db1d50608194ebc0f607ebefd954
+      internalID: 1565807548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_307
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b27b6cbabda16459fff79b22d70afa
+      internalID: 761857111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_308
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 575
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f981a285ad184cb50956cca305496
+      internalID: -814140699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_309
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 543
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674505d16df7a4a4ab5acc2e865bb083
+      internalID: 1222546274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_310
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a183389abb5eb9e44a871e1d5add8c3c
+      internalID: -935042536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_311
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 543
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc70f90a37ca8429fa7109331fc51a
+      internalID: -2045968228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_312
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 543
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b1acfbc002a2e499658edbf6bd64d7
+      internalID: 1820855150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ2_313
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 543
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0989717b59a5199479f3feff3b755ca1
+      internalID: -369699667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 723ead8f8495e504989d700e233ceb63
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PNJ2_0: -41317128610790582
+      PNJ2_1: 4892576672011641710
+      PNJ2_10: -6686763107261125406
+      PNJ2_100: 9222214370102145402
+      PNJ2_101: 1739696268496858239
+      PNJ2_102: 5862276983734851635
+      PNJ2_103: 6502474502421006592
+      PNJ2_104: -2347218491347524585
+      PNJ2_105: -8137162089479918989
+      PNJ2_106: 7419499087354175524
+      PNJ2_107: -5389801423451901503
+      PNJ2_108: 1622863207846905481
+      PNJ2_109: -3526473128211954916
+      PNJ2_11: 6781295605218081621
+      PNJ2_110: -5172416343853736304
+      PNJ2_111: -2537672407846873193
+      PNJ2_112: -16263549392457363
+      PNJ2_113: -4720650853335440799
+      PNJ2_114: 5849521633168728948
+      PNJ2_115: 7603312407697254016
+      PNJ2_116: 2227387542198649704
+      PNJ2_117: -7881520899870308260
+      PNJ2_118: 7750294689142128551
+      PNJ2_119: 321640010269415423
+      PNJ2_12: 6378268243216472999
+      PNJ2_120: -7403053585500376163
+      PNJ2_121: 5802403778113128110
+      PNJ2_122: 6427931533283609303
+      PNJ2_123: -4828886918064475995
+      PNJ2_124: -6743585018486155903
+      PNJ2_125: 8712156436152062741
+      PNJ2_126: -332870924491658466
+      PNJ2_127: 100560066902366474
+      PNJ2_128: -7886679722015572522
+      PNJ2_129: -8482875085050118183
+      PNJ2_13: 2716922911331668662
+      PNJ2_130: -6573820175165049798
+      PNJ2_131: -1027896541206433607
+      PNJ2_132: -3557149625609577624
+      PNJ2_133: -5470719760205901985
+      PNJ2_134: 888529153822383923
+      PNJ2_135: -734667661534651405
+      PNJ2_136: 4612232779932927691
+      PNJ2_137: 8418547835784953907
+      PNJ2_138: 3849350618000477029
+      PNJ2_139: 4000648576630306353
+      PNJ2_14: 5006054520392443452
+      PNJ2_140: 310871578005668652
+      PNJ2_141: -4457375613411345595
+      PNJ2_142: 3472697440270955969
+      PNJ2_143: -4668725463317791242
+      PNJ2_144: 8919815896488858834
+      PNJ2_145: -3003281109261905688
+      PNJ2_146: 8305053421888736931
+      PNJ2_147: -4808490228874986377
+      PNJ2_148: -3349894886383550518
+      PNJ2_149: 822136737516001616
+      PNJ2_15: 6854962928723105835
+      PNJ2_150: -5175206024342401594
+      PNJ2_151: -2694117039248368360
+      PNJ2_152: 9217999807242643110
+      PNJ2_153: 397266882720898891
+      PNJ2_154: -5759028272426486669
+      PNJ2_155: -3815216471018329663
+      PNJ2_156: 7565920523051291610
+      PNJ2_157: 4605503705165295548
+      PNJ2_158: 4934367293129259585
+      PNJ2_159: 8732837733353444944
+      PNJ2_16: 5850761270908626037
+      PNJ2_160: -5642899631761721129
+      PNJ2_161: -5994705824984851489
+      PNJ2_162: -4403458808050150997
+      PNJ2_163: -4523884438246157671
+      PNJ2_164: 2810450368631042304
+      PNJ2_165: 3299808096922150593
+      PNJ2_166: 6071629575912495894
+      PNJ2_167: 7420959169769066480
+      PNJ2_168: -653804411833382948
+      PNJ2_169: 3477196846249679795
+      PNJ2_17: 4120686328051687610
+      PNJ2_170: 6486674703728546551
+      PNJ2_171: -8327113734788609540
+      PNJ2_172: -5830639398342194579
+      PNJ2_173: -3512665201939576523
+      PNJ2_174: -3114451607078314735
+      PNJ2_175: -3798670190985472739
+      PNJ2_176: 7475535833209825617
+      PNJ2_177: 4069247644945971465
+      PNJ2_178: 3284739169322560275
+      PNJ2_179: -7441732542154522613
+      PNJ2_18: 3525719475405621991
+      PNJ2_180: -4966311910031822078
+      PNJ2_181: -224858095788137202
+      PNJ2_182: -1088889951625144193
+      PNJ2_183: -7851372706129708469
+      PNJ2_184: 746431733769988681
+      PNJ2_185: 1309863093427112964
+      PNJ2_186: -924829267151151678
+      PNJ2_187: -7717931443044660522
+      PNJ2_188: -6905126299320378838
+      PNJ2_189: 8881118425123095041
+      PNJ2_19: 4397189237730117922
+      PNJ2_190: -6124747217245054519
+      PNJ2_191: -2788162317959903774
+      PNJ2_192: 3369921469442977999
+      PNJ2_193: 1270066538729827955
+      PNJ2_194: -612424103067628702
+      PNJ2_195: -4345257479648058582
+      PNJ2_196: -8914426186180785424
+      PNJ2_197: 6887294794275068330
+      PNJ2_198: 9033490154791290442
+      PNJ2_199: -7377331073168420682
+      PNJ2_2: 1633660617178190500
+      PNJ2_20: 2284627914261258535
+      PNJ2_200: 6405547501434153617
+      PNJ2_201: 3556992839185761052
+      PNJ2_202: 2196966692476902077
+      PNJ2_203: 5905453167913577760
+      PNJ2_204: 3243007992842386102
+      PNJ2_205: -760506684239811692
+      PNJ2_206: -6896367863231556351
+      PNJ2_207: 1896272223238462382
+      PNJ2_208: -8962985264092747129
+      PNJ2_209: 3371961479853245268
+      PNJ2_21: -8358394285661636289
+      PNJ2_210: 8118602429186166496
+      PNJ2_211: 2307583715689575074
+      PNJ2_212: 7750451800810390609
+      PNJ2_213: 3971178146375531799
+      PNJ2_214: -967755476710033424
+      PNJ2_215: 6331875623611304746
+      PNJ2_216: -4427776620289016485
+      PNJ2_217: 2398072626357539071
+      PNJ2_218: 8562332763231512726
+      PNJ2_219: 163005432618115270
+      PNJ2_22: 1517162840316158501
+      PNJ2_220: -6207526369217753254
+      PNJ2_221: 5471770067662893895
+      PNJ2_222: -8057980462137610556
+      PNJ2_223: -1193250552348916426
+      PNJ2_224: -7509538643922400533
+      PNJ2_225: 3545892504119379378
+      PNJ2_226: -8901698023893226455
+      PNJ2_227: -7569324965191053594
+      PNJ2_228: -4922304378136092737
+      PNJ2_229: 8435664306180571960
+      PNJ2_23: -5807833557830917818
+      PNJ2_230: 6712746629250421151
+      PNJ2_231: 9056740512084982363
+      PNJ2_232: -7620464271485171651
+      PNJ2_233: -5971532483795605355
+      PNJ2_234: 5184025727335604985
+      PNJ2_235: 4326943708651054148
+      PNJ2_236: 5617280836224275666
+      PNJ2_237: 1265441360849754874
+      PNJ2_238: 1767782941829255984
+      PNJ2_239: -5602473939710225901
+      PNJ2_24: -566293557293765919
+      PNJ2_240: -6681619583987673849
+      PNJ2_241: 2934886465102052418
+      PNJ2_242: -2699278243896731096
+      PNJ2_243: -273568493069601093
+      PNJ2_244: -3033982642131842298
+      PNJ2_245: 7787292687703604302
+      PNJ2_246: -4582889025020416787
+      PNJ2_247: -1717257505587450102
+      PNJ2_248: -4029097453820813637
+      PNJ2_249: -3836502116467879831
+      PNJ2_25: -6454579748452480627
+      PNJ2_250: -4390778396109462728
+      PNJ2_251: -2424983624611204936
+      PNJ2_252: -9118536582865425285
+      PNJ2_253: 2849232139806408565
+      PNJ2_254: -3927437508303442016
+      PNJ2_255: -7097479444436220374
+      PNJ2_256: 4921228505832887785
+      PNJ2_257: -8821688771435678451
+      PNJ2_258: -3293242467370377836
+      PNJ2_259: 4431357046895799272
+      PNJ2_26: 2597376030426607472
+      PNJ2_260: -3162037646142174471
+      PNJ2_261: 7245661364134062168
+      PNJ2_262: 7861418806803984201
+      PNJ2_263: -3778656094697899356
+      PNJ2_264: -1823103979557697260
+      PNJ2_265: 4756994539993410443
+      PNJ2_266: 1090866485178409087
+      PNJ2_267: 8480816341078299391
+      PNJ2_268: 8888782072528528361
+      PNJ2_269: -1857679636268940453
+      PNJ2_27: -7096979997316074303
+      PNJ2_270: 6071505617301222460
+      PNJ2_271: 8458242016368414997
+      PNJ2_272: 4847192753291211867
+      PNJ2_273: -276551329117833339
+      PNJ2_274: 4748415460029531444
+      PNJ2_275: -825591840873890812
+      PNJ2_276: 3444666140724959584
+      PNJ2_277: 8600556850798115024
+      PNJ2_278: -3944127514428283595
+      PNJ2_279: -6041477735536901259
+      PNJ2_28: -2261847351088904256
+      PNJ2_280: -8405863212980458245
+      PNJ2_281: -8458209801378074381
+      PNJ2_282: 7940544987213603130
+      PNJ2_283: -8464070274455857796
+      PNJ2_284: 8651690716451349411
+      PNJ2_285: -4433913513724119670
+      PNJ2_286: -1182705596213549801
+      PNJ2_287: -464317649
+      PNJ2_288: 925283840
+      PNJ2_289: 961772677
+      PNJ2_29: -5066464792720909146
+      PNJ2_290: 1052666242
+      PNJ2_291: -1378929654
+      PNJ2_292: -1707335801
+      PNJ2_293: 2009807947
+      PNJ2_294: -900934770
+      PNJ2_295: 2016028039
+      PNJ2_296: -599086950
+      PNJ2_297: 189584218
+      PNJ2_298: -1372201969
+      PNJ2_299: 2099518700
+      PNJ2_3: -9212806922901002372
+      PNJ2_30: -952902752921008886
+      PNJ2_300: -304375111
+      PNJ2_301: 941986615
+      PNJ2_302: -487356948
+      PNJ2_303: 1336444188
+      PNJ2_304: 414559526
+      PNJ2_305: -1557623005
+      PNJ2_306: 1565807548
+      PNJ2_307: 761857111
+      PNJ2_308: -814140699
+      PNJ2_309: 1222546274
+      PNJ2_31: -1716220348603466494
+      PNJ2_310: -935042536
+      PNJ2_311: -2045968228
+      PNJ2_312: 1820855150
+      PNJ2_313: -369699667
+      PNJ2_32: 8159206557689622254
+      PNJ2_33: 264977162857016667
+      PNJ2_34: -5140721520056241946
+      PNJ2_35: -5130198194724374407
+      PNJ2_36: -7456466044421837678
+      PNJ2_37: 4137442770882112167
+      PNJ2_38: 4949845551264431580
+      PNJ2_39: -2339544276512912914
+      PNJ2_4: 5319533800500059020
+      PNJ2_40: -4673347351870096344
+      PNJ2_41: -2030034700022359525
+      PNJ2_42: -1006521644404976341
+      PNJ2_43: -6560067380097879884
+      PNJ2_44: 5774116498072650897
+      PNJ2_45: -7704218034582229139
+      PNJ2_46: -3291697093156756774
+      PNJ2_47: -6681775586417097630
+      PNJ2_48: -5163336133481692998
+      PNJ2_49: 2742185325030146392
+      PNJ2_5: -6631366247112763764
+      PNJ2_50: -6685894052566951195
+      PNJ2_51: -5100200089087319354
+      PNJ2_52: 7323001394030828174
+      PNJ2_53: -2078168424372723965
+      PNJ2_54: -8092469156354491013
+      PNJ2_55: 4319544825930308752
+      PNJ2_56: -4623635228547283556
+      PNJ2_57: 366323570381089693
+      PNJ2_58: 7526872581882611809
+      PNJ2_59: 1142699617657974913
+      PNJ2_6: 8959149814206391331
+      PNJ2_60: -1425648807623560526
+      PNJ2_61: -8988834538671513836
+      PNJ2_62: -3044238833297530396
+      PNJ2_63: 8346164629452064262
+      PNJ2_64: 3483946677248454076
+      PNJ2_65: -7696526478456910929
+      PNJ2_66: 668773490915311961
+      PNJ2_67: -2040337185855714974
+      PNJ2_68: 7383560136700706530
+      PNJ2_69: 711236245181261562
+      PNJ2_7: 3179324635887384597
+      PNJ2_70: 8508541604936950890
+      PNJ2_71: 8407368184024489964
+      PNJ2_72: 3591157535490851123
+      PNJ2_73: 946148798907629687
+      PNJ2_74: -6155845855485168228
+      PNJ2_75: -8592601871591424715
+      PNJ2_76: -7785553263066004452
+      PNJ2_77: -2308109133500987779
+      PNJ2_78: -70088266595858283
+      PNJ2_79: -4006504017502413640
+      PNJ2_8: 8915877261832171844
+      PNJ2_80: -9038752532260022698
+      PNJ2_81: -8659131863410046791
+      PNJ2_82: -2778489463661160569
+      PNJ2_83: -2256621189993833357
+      PNJ2_84: -6085824619218732492
+      PNJ2_85: -9119847749616884285
+      PNJ2_86: 4821015244525521921
+      PNJ2_87: 9030938167137036327
+      PNJ2_88: 8880204771574049317
+      PNJ2_89: -1620159877835646477
+      PNJ2_9: -7241088403649857454
+      PNJ2_90: -767531916730506859
+      PNJ2_91: -7513612875122398721
+      PNJ2_92: -8345916341701223638
+      PNJ2_93: -19120848103287688
+      PNJ2_94: 9070471199954975448
+      PNJ2_95: -433468740050613742
+      PNJ2_96: 3944925639041726373
+      PNJ2_97: 3480215352132137307
+      PNJ2_98: 3290501191994655408
+      PNJ2_99: -6919695439468059094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
