@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: PNJ_Rue_normal_gentil
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSequenceSO
   lines:
+  - characterName: Denji
+    dialogueText: "Bonjour ! \nPassez une belle journ\xE9e ! "
   - characterName: Gentil
     dialogueText: "Bonjour ! \nBonne journ\xE9e \xE9galement !"

@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: "PNJ_Rue_normal_m\xE9chant"
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSequenceSO
   lines:
+  - characterName: Denji
+    dialogueText: Bonjour !
   - characterName: Pas Gentil
     dialogueText: '. . . '

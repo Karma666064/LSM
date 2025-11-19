@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSequenceSO
   lines:
   - characterName: Boss
-    dialogueText: "Merci Denji, \nLe meeting ne va pas tarder, allons \xE0 la salle
+    dialogueText: "Merci Denji, \n\nLe meeting ne va pas tarder, allons \xE0 la salle
       de R\xE9union."
