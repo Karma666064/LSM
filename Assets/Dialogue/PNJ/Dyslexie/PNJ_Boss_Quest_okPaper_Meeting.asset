@@ -10,6 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8e429239892fdea4cbdb8a7b157ca5f9, type: 3}
-  m_Name: NewDialogue
+  m_Name: PNJ_Boss_Quest_okPaper_Meeting
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSequenceSO
-  lines: []
+  lines:
+  - characterName: Boss
+    dialogueText: "Merci Denji, \nLe meeting ne va pas tarder, allons \xE0 la salle
+      de R\xE9union."
