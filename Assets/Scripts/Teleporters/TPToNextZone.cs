@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class TPToNextZone : MonoBehaviour
 {
+    [SerializeField] Camera mainCamera;
     [SerializeField] GameObject tpPoint;
 
     bool canTeleport = true;
@@ -11,8 +12,11 @@ public class TPToNextZone : MonoBehaviour
         if (collision.CompareTag("Player") && canTeleport)
         {
             collision.transform.position = tpPoint.transform.position;
+
+            if (gameObject.name == "Trigger To Street") mainCamera.orthographicSize = 9f;
+            if (gameObject.name == "Trigger To Workplace") mainCamera.orthographicSize = 7f;
+
             canTeleport = false;
-            Debug.Log("TP to \"" + tpPoint.name + "\"");
         }
     }
 
