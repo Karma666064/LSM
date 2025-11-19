@@ -16,3 +16,7 @@ MonoBehaviour:
   - characterName: Boss
     dialogueText: "Bonjour Denji, \n\nPourrais-tu trier les documents avant le meeting
       s'il te pla\xEEt ? \n"
+  - characterName: Boss
+    dialogueText: 'Il y en a 5 en tout
+
+'

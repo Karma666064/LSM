@@ -22,12 +22,12 @@ public class PlayerInventory : MonoBehaviour
         else return null;
     }
 
-    //public int GetCountOfObjectByName(InventoryObject.Name name)
-    //{
-    //    InventoryObject obj = GetObject(name);
+    public int GetCountOfObjectByName(InventoryObject.Name name)
+    {
+        InventoryObject obj = GetObject(name);
 
-    //    return obj != null ? obj.count : 0;
-    //}
+        return obj != null ? obj.count : 0;
+    }
 
     public void AddObject(InventoryObject.Name name, int number)
     {
