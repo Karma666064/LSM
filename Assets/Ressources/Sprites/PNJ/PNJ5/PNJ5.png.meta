@@ -1,0 +1,2941 @@
+fileFormatVersion: 2
+guid: defdd35169db9ff48922fb14b9256e31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 875493600209434057
+    second: PNJ5_0
+  - first:
+      213: -8988775713702519266
+    second: PNJ5_1
+  - first:
+      213: -6919077511422413436
+    second: PNJ5_2
+  - first:
+      213: -3923182236632528523
+    second: PNJ5_3
+  - first:
+      213: -6598992059674087077
+    second: PNJ5_4
+  - first:
+      213: -8736584344439668735
+    second: PNJ5_5
+  - first:
+      213: 5280991511464349258
+    second: PNJ5_6
+  - first:
+      213: -5198648017720999749
+    second: PNJ5_7
+  - first:
+      213: -6457408794611504972
+    second: PNJ5_8
+  - first:
+      213: -8844677773869191964
+    second: PNJ5_9
+  - first:
+      213: -5460243423103665148
+    second: PNJ5_10
+  - first:
+      213: -5114210825697808971
+    second: PNJ5_11
+  - first:
+      213: -1209313662802109907
+    second: PNJ5_12
+  - first:
+      213: 4714008204122137503
+    second: PNJ5_13
+  - first:
+      213: 6950697672302965514
+    second: PNJ5_14
+  - first:
+      213: -887176517140875111
+    second: PNJ5_15
+  - first:
+      213: 1223872805508727696
+    second: PNJ5_16
+  - first:
+      213: 5025406827055186861
+    second: PNJ5_17
+  - first:
+      213: 5970241851506258680
+    second: PNJ5_18
+  - first:
+      213: 550973987102027464
+    second: PNJ5_19
+  - first:
+      213: 5602168933406460025
+    second: PNJ5_20
+  - first:
+      213: -4670825533695734152
+    second: PNJ5_21
+  - first:
+      213: 3473831240780559271
+    second: PNJ5_22
+  - first:
+      213: -6525961739276519743
+    second: PNJ5_23
+  - first:
+      213: 6515661811068802080
+    second: PNJ5_24
+  - first:
+      213: 1478668162402310468
+    second: PNJ5_25
+  - first:
+      213: -3384657329016800232
+    second: PNJ5_26
+  - first:
+      213: 2861897101801689260
+    second: PNJ5_27
+  - first:
+      213: 7095687179738235789
+    second: PNJ5_28
+  - first:
+      213: -4300258287024254593
+    second: PNJ5_29
+  - first:
+      213: 8603380017338438367
+    second: PNJ5_30
+  - first:
+      213: -1870831201658599742
+    second: PNJ5_31
+  - first:
+      213: 2958662567688562089
+    second: PNJ5_32
+  - first:
+      213: 343352052851719020
+    second: PNJ5_33
+  - first:
+      213: 6813400427534596591
+    second: PNJ5_34
+  - first:
+      213: -8416375215579377165
+    second: PNJ5_35
+  - first:
+      213: 6402850459333967319
+    second: PNJ5_36
+  - first:
+      213: -387719351264045407
+    second: PNJ5_37
+  - first:
+      213: 4482121516564404535
+    second: PNJ5_38
+  - first:
+      213: 7702058219370425276
+    second: PNJ5_39
+  - first:
+      213: 5717598523912883576
+    second: PNJ5_40
+  - first:
+      213: 1851800960337440968
+    second: PNJ5_41
+  - first:
+      213: 6845677729168925096
+    second: PNJ5_42
+  - first:
+      213: -885349694671774008
+    second: PNJ5_43
+  - first:
+      213: -521633721194879986
+    second: PNJ5_44
+  - first:
+      213: 1349576560852504652
+    second: PNJ5_45
+  - first:
+      213: 7093351501476243155
+    second: PNJ5_46
+  - first:
+      213: 6114290296345370191
+    second: PNJ5_47
+  - first:
+      213: -383365084397076754
+    second: PNJ5_48
+  - first:
+      213: 2906072225632305702
+    second: PNJ5_49
+  - first:
+      213: 5360609837376989476
+    second: PNJ5_50
+  - first:
+      213: 2043181017242710208
+    second: PNJ5_51
+  - first:
+      213: -1905702377263621894
+    second: PNJ5_52
+  - first:
+      213: 1154572219013953225
+    second: PNJ5_53
+  - first:
+      213: 6601941682901561127
+    second: PNJ5_54
+  - first:
+      213: 3861535896607880469
+    second: PNJ5_55
+  - first:
+      213: -7854998137777587982
+    second: PNJ5_56
+  - first:
+      213: -1760409160888843790
+    second: PNJ5_57
+  - first:
+      213: 5214386759230947640
+    second: PNJ5_58
+  - first:
+      213: -3092586341457173956
+    second: PNJ5_59
+  - first:
+      213: 1190864261731308774
+    second: PNJ5_60
+  - first:
+      213: -7652847432180822781
+    second: PNJ5_61
+  - first:
+      213: -112071924976700879
+    second: PNJ5_62
+  - first:
+      213: -6137513388644957331
+    second: PNJ5_63
+  - first:
+      213: 8724514696422446106
+    second: PNJ5_64
+  - first:
+      213: -7976956677702078105
+    second: PNJ5_65
+  - first:
+      213: 6906166562068430774
+    second: PNJ5_66
+  - first:
+      213: -5652808335457063056
+    second: PNJ5_67
+  - first:
+      213: -2387045477125000033
+    second: PNJ5_68
+  - first:
+      213: 4580802422717990507
+    second: PNJ5_69
+  - first:
+      213: 5471436182547098850
+    second: PNJ5_70
+  - first:
+      213: -6552103149609575546
+    second: PNJ5_71
+  - first:
+      213: -4790663388182440022
+    second: PNJ5_72
+  - first:
+      213: -6978152624737571218
+    second: PNJ5_73
+  - first:
+      213: -7704050389469471501
+    second: PNJ5_74
+  - first:
+      213: -3976710342621772338
+    second: PNJ5_75
+  - first:
+      213: -9005268761869202477
+    second: PNJ5_76
+  - first:
+      213: -4394258822122260251
+    second: PNJ5_77
+  - first:
+      213: 7851640242236534768
+    second: PNJ5_78
+  - first:
+      213: -8500902141883991032
+    second: PNJ5_79
+  - first:
+      213: -5659426405460705105
+    second: PNJ5_80
+  - first:
+      213: 9164599527431252279
+    second: PNJ5_81
+  - first:
+      213: -1012506986363798526
+    second: PNJ5_82
+  - first:
+      213: 7427358588098808514
+    second: PNJ5_83
+  - first:
+      213: 1206282589199982761
+    second: PNJ5_84
+  - first:
+      213: 3223692586581954523
+    second: PNJ5_85
+  - first:
+      213: 786081716060712422
+    second: PNJ5_86
+  - first:
+      213: 3606235110350107660
+    second: PNJ5_87
+  - first:
+      213: 868423359054170775
+    second: PNJ5_88
+  - first:
+      213: -7115078759425699275
+    second: PNJ5_89
+  - first:
+      213: -5407036210096901916
+    second: PNJ5_90
+  - first:
+      213: 7180759960279803187
+    second: PNJ5_91
+  - first:
+      213: 6858217910581791825
+    second: PNJ5_92
+  - first:
+      213: 86058366577679140
+    second: PNJ5_93
+  - first:
+      213: 221622879909596074
+    second: PNJ5_94
+  - first:
+      213: 6513742336443107261
+    second: PNJ5_95
+  - first:
+      213: 118114127095909714
+    second: PNJ5_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PNJ5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c57c937ac0662c00800000000000000
+      internalID: 875493600209434057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e5a1bec14714380800000000000000
+      internalID: -8988775713702519266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 575
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f54689af7aff90800000000000000
+      internalID: -6919077511422413436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 575
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579456caa8e0e89c0800000000000000
+      internalID: -3923182236632528523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51b0874fabab64a0800000000000000
+      internalID: -6598992059674087077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 543
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1004f6fb3da61c680800000000000000
+      internalID: -8736584344439668735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 511
+        width: 130
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e8faebcc9d94940800000000000000
+      internalID: 5280991511464349258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 543
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb08377eb21bad7b0800000000000000
+      internalID: -5198648017720999749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 543
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8a2b30aeca266a0800000000000000
+      internalID: -6457408794611504972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 97
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecebbffc64614580800000000000000
+      internalID: -8844677773869191964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 511
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c3eba49815934b0800000000000000
+      internalID: -5460243423103665148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd23dba95ca609b0800000000000000
+      internalID: -5114210825697808971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 480
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a57a281a7a73fe0800000000000000
+      internalID: -1209313662802109907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 480
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f932afa5c758b6140800000000000000
+      internalID: 4714008204122137503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03b0c2e4b6d57060800000000000000
+      internalID: 6950697672302965514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 448
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998ffba78ad10b3f0800000000000000
+      internalID: -887176517140875111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 448
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093cb9e05d11cf010800000000000000
+      internalID: 1223872805508727696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 193
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3827a22e4ddb540800000000000000
+      internalID: 5025406827055186861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 193
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2733e055f8ad250800000000000000
+      internalID: 5970241851506258680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce62bd0ce375a700800000000000000
+      internalID: 550973987102027464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978cb6f96f6eebd40800000000000000
+      internalID: 5602168933406460025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ecd389ce4ed2fb0800000000000000
+      internalID: -4670825533695734152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3316cbb17853030800000000000000
+      internalID: 3473831240780559271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6f1a8cf502f65a0800000000000000
+      internalID: -6525961739276519743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024955d45e74c6a50800000000000000
+      internalID: 6515661811068802080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4495ba00cd8458410800000000000000
+      internalID: 1478668162402310468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 386
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cf78987184701d0800000000000000
+      internalID: -3384657329016800232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 386
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca01c98404087b720800000000000000
+      internalID: 2861897101801689260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 387
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83479935e1f87260800000000000000
+      internalID: 7095687179738235789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_29
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 386
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f715d772fd96254c0800000000000000
+      internalID: -4300258287024254593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 386
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2d6290b88556770800000000000000
+      internalID: 8603380017338438367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c60c662fe87906e0800000000000000
+      internalID: -1870831201658599742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 351
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5625dfde74f0920800000000000000
+      internalID: 2958662567688562089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 351
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bb0277fd4d3c400800000000000000
+      internalID: 343352052851719020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 351
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9b1b3079f0e8e50800000000000000
+      internalID: 6813400427534596591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 351
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f15df25557033b80800000000000000
+      internalID: -8416375215579377165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_36
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd3c8aa19e7bd850800000000000000
+      internalID: 6402850459333967319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a69c53ed4b8e9af0800000000000000
+      internalID: -387719351264045407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739d4f2a5c1b33e30800000000000000
+      internalID: 4482121516564404535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_39
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 355
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbba3fca42533ea60800000000000000
+      internalID: 7702058219370425276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_40
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 355
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d002a709df85f40800000000000000
+      internalID: 5717598523912883576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_41
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 355
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0f3a3892be2b910800000000000000
+      internalID: 1851800960337440968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_42
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1aaedef9bb00f50800000000000000
+      internalID: 6845677729168925096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_43
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce961bb42b96b3f0800000000000000
+      internalID: -885349694671774008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 355
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e046051f4e8c2c8f0800000000000000
+      internalID: -521633721194879986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_45
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 351
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c409ec25bb8aab210800000000000000
+      internalID: 1349576560852504652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_46
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 351
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6a970cb95a07260800000000000000
+      internalID: 7093351501476243155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_47
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 351
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e984f21a25ad450800000000000000
+      internalID: 6114290296345370191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee7935ac730eaaf0800000000000000
+      internalID: -383365084397076754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622417cca41745820800000000000000
+      internalID: 2906072225632305702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 319
+        width: 418
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429e150de36b46a40800000000000000
+      internalID: 5360609837376989476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_51
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 319
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0b2985f46da5c10800000000000000
+      internalID: 2043181017242710208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_52
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 319
+        width: 290
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af89593e8c59d85e0800000000000000
+      internalID: -1905702377263621894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 641
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c67cd5e05dd50010800000000000000
+      internalID: 1154572219013953225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_54
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 289
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f21356bfece9b50800000000000000
+      internalID: 6601941682901561127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_55
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 289
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5157bbc407ee69530800000000000000
+      internalID: 3861535896607880469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8796eafc07df290800000000000000
+      internalID: -7854998137777587982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 114
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f180e9f135c197e0800000000000000
+      internalID: -1760409160888843790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 255
+        width: 402
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831067961293d5840800000000000000
+      internalID: 5214386759230947640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_59
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 255
+        width: 114
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3268309b1de415d0800000000000000
+      internalID: -3092586341457173956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_60
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 255
+        width: 241
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4d3309cbcc68010800000000000000
+      internalID: 1190864261731308774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d0a949ecf9bc590800000000000000
+      internalID: -7652847432180822781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 114
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13238729d27d17ef0800000000000000
+      internalID: -112071924976700879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 223
+        width: 402
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d630d99471c23daa0800000000000000
+      internalID: -6137513388644957331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_64
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 223
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a145fe554e3b31970800000000000000
+      internalID: 8724514696422446106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_65
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 223
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76133e45a282c4190800000000000000
+      internalID: -7976956677702078105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_66
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 223
+        width: 257
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bff4c3d5e1a7df50800000000000000
+      internalID: 6906166562068430774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fe6bdc4c03d81b0800000000000000
+      internalID: -5652808335457063056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_68
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 210
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94f24129c28fded0800000000000000
+      internalID: -2387045477125000033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_69
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 146
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66ca588887429f30800000000000000
+      internalID: 4580802422717990507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec60f718327eeb40800000000000000
+      internalID: 5471436182547098850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_71
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 210
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b9dc366e04215a0800000000000000
+      internalID: -6552103149609575546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_72
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 146
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa79aecc705248db0800000000000000
+      internalID: -4790663388182440022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eae0ed82f982f90800000000000000
+      internalID: -6978152624737571218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_74
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 210
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc56f31df6b51590800000000000000
+      internalID: -7704050389469471501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_75
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 127
+        width: 146
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5486d4303efc8c0800000000000000
+      internalID: -3976710342621772338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_76
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db4dd5e5cbd60380800000000000000
+      internalID: -9005268761869202477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_77
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8b64012e47403c0800000000000000
+      internalID: -4394258822122260251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_78
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffaba65331a6fc60800000000000000
+      internalID: 7851640242236534768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_79
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 129
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cb5aaaa8ab60a80800000000000000
+      internalID: -8500902141883991032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_80
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 128
+        width: 74
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa08c0e4bada571b0800000000000000
+      internalID: -5659426405460705105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_81
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 129
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739a04dc6b23f2f70800000000000000
+      internalID: 9164599527431252279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_82
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c3f29a24ad2f1f0800000000000000
+      internalID: -1012506986363798526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_83
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca8317b847431760800000000000000
+      internalID: 7427358588098808514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_84
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 129
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0e00caf939db010800000000000000
+      internalID: 1206282589199982761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_85
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf0740e35bdcbc20800000000000000
+      internalID: 3223692586581954523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_86
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 127
+        width: 62
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed6a3ae729b8ea00800000000000000
+      internalID: 786081716060712422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_87
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04b5f8e9bbeb0230800000000000000
+      internalID: 3606235110350107660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 257
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a4317a1724d0c00800000000000000
+      internalID: 868423359054170775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532118bc099224d90800000000000000
+      internalID: -7115078759425699275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_90
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 162
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0ff71f63956f4b0800000000000000
+      internalID: -5407036210096901916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_91
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 162
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33563d9732f27a360800000000000000
+      internalID: 7180759960279803187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 202
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c03707ad84d2f50800000000000000
+      internalID: 6858217910581791825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b10d1e0adb13100800000000000000
+      internalID: 86058366577679140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_94
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 114
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab4c17c5dc531300800000000000000
+      internalID: 221622879909596074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_95
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db74d1ac426756a50800000000000000
+      internalID: 6513742336443107261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_96
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dc18c3c20a3a100800000000000000
+      internalID: 118114127095909714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 575
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e272a53a0583ff4f91204716d796546
+      internalID: -1812585419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 575
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ade7646f91a047b33e19651b5e00f
+      internalID: -737824418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 575
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25881227983f89488c37cebad6d490b
+      internalID: 235050406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_100
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 575
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99bdfa3d32862f498a675c91f7e016e
+      internalID: 804619663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 575
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dde071d5e694474fa7a6a79ce34aa2c
+      internalID: -1869324938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_102
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 575
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b1cad1f90e844d89acfad518e5477
+      internalID: 1770360340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 575
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ff4a926b0f9c7418e50f2dbbabc840
+      internalID: -1360503438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_104
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 575
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05531d370e7de884dadc8b16bc791f6c
+      internalID: -907250254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 575
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a89a06a22fceb44a93c447132914d4
+      internalID: 1884312192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_106
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 575
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92229c36ab9d347819874af518890f
+      internalID: -1632607125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 575
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bc34e1c3081a140b5eb868bc025664
+      internalID: -379728209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ5_108
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 575
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207ceb541c87c744db1a81eac294fa09
+      internalID: 1576738198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1e7b8812b337ce442b7f6243f2e2fc27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PNJ5_0: 875493600209434057
+      PNJ5_1: -8988775713702519266
+      PNJ5_10: -5460243423103665148
+      PNJ5_100: 804619663
+      PNJ5_101: -1869324938
+      PNJ5_102: 1770360340
+      PNJ5_103: -1360503438
+      PNJ5_104: -907250254
+      PNJ5_105: 1884312192
+      PNJ5_106: -1632607125
+      PNJ5_107: -379728209
+      PNJ5_108: 1576738198
+      PNJ5_11: -5114210825697808971
+      PNJ5_12: -1209313662802109907
+      PNJ5_13: 4714008204122137503
+      PNJ5_14: 6950697672302965514
+      PNJ5_15: -887176517140875111
+      PNJ5_16: 1223872805508727696
+      PNJ5_17: 5025406827055186861
+      PNJ5_18: 5970241851506258680
+      PNJ5_19: 550973987102027464
+      PNJ5_2: -6919077511422413436
+      PNJ5_20: 5602168933406460025
+      PNJ5_21: -4670825533695734152
+      PNJ5_22: 3473831240780559271
+      PNJ5_23: -6525961739276519743
+      PNJ5_24: 6515661811068802080
+      PNJ5_25: 1478668162402310468
+      PNJ5_26: -3384657329016800232
+      PNJ5_27: 2861897101801689260
+      PNJ5_28: 7095687179738235789
+      PNJ5_29: -4300258287024254593
+      PNJ5_3: -3923182236632528523
+      PNJ5_30: 8603380017338438367
+      PNJ5_31: -1870831201658599742
+      PNJ5_32: 2958662567688562089
+      PNJ5_33: 343352052851719020
+      PNJ5_34: 6813400427534596591
+      PNJ5_35: -8416375215579377165
+      PNJ5_36: 6402850459333967319
+      PNJ5_37: -387719351264045407
+      PNJ5_38: 4482121516564404535
+      PNJ5_39: 7702058219370425276
+      PNJ5_4: -6598992059674087077
+      PNJ5_40: 5717598523912883576
+      PNJ5_41: 1851800960337440968
+      PNJ5_42: 6845677729168925096
+      PNJ5_43: -885349694671774008
+      PNJ5_44: -521633721194879986
+      PNJ5_45: 1349576560852504652
+      PNJ5_46: 7093351501476243155
+      PNJ5_47: 6114290296345370191
+      PNJ5_48: -383365084397076754
+      PNJ5_49: 2906072225632305702
+      PNJ5_5: -8736584344439668735
+      PNJ5_50: 5360609837376989476
+      PNJ5_51: 2043181017242710208
+      PNJ5_52: -1905702377263621894
+      PNJ5_53: 1154572219013953225
+      PNJ5_54: 6601941682901561127
+      PNJ5_55: 3861535896607880469
+      PNJ5_56: -7854998137777587982
+      PNJ5_57: -1760409160888843790
+      PNJ5_58: 5214386759230947640
+      PNJ5_59: -3092586341457173956
+      PNJ5_6: 5280991511464349258
+      PNJ5_60: 1190864261731308774
+      PNJ5_61: -7652847432180822781
+      PNJ5_62: -112071924976700879
+      PNJ5_63: -6137513388644957331
+      PNJ5_64: 8724514696422446106
+      PNJ5_65: -7976956677702078105
+      PNJ5_66: 6906166562068430774
+      PNJ5_67: -5652808335457063056
+      PNJ5_68: -2387045477125000033
+      PNJ5_69: 4580802422717990507
+      PNJ5_7: -5198648017720999749
+      PNJ5_70: 5471436182547098850
+      PNJ5_71: -6552103149609575546
+      PNJ5_72: -4790663388182440022
+      PNJ5_73: -6978152624737571218
+      PNJ5_74: -7704050389469471501
+      PNJ5_75: -3976710342621772338
+      PNJ5_76: -9005268761869202477
+      PNJ5_77: -4394258822122260251
+      PNJ5_78: 7851640242236534768
+      PNJ5_79: -8500902141883991032
+      PNJ5_8: -6457408794611504972
+      PNJ5_80: -5659426405460705105
+      PNJ5_81: 9164599527431252279
+      PNJ5_82: -1012506986363798526
+      PNJ5_83: 7427358588098808514
+      PNJ5_84: 1206282589199982761
+      PNJ5_85: 3223692586581954523
+      PNJ5_86: 786081716060712422
+      PNJ5_87: 3606235110350107660
+      PNJ5_88: 868423359054170775
+      PNJ5_89: -7115078759425699275
+      PNJ5_9: -8844677773869191964
+      PNJ5_90: -5407036210096901916
+      PNJ5_91: 7180759960279803187
+      PNJ5_92: 6858217910581791825
+      PNJ5_93: 86058366577679140
+      PNJ5_94: 221622879909596074
+      PNJ5_95: 6513742336443107261
+      PNJ5_96: 118114127095909714
+      PNJ5_97: -1812585419
+      PNJ5_98: -737824418
+      PNJ5_99: 235050406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
