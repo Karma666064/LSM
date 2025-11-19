@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d557f80f2225e1d4d8903f6861ce7f7a, type: 3}
+  m_Name: Dyslexia_Scientifique_SO
+  m_EditorClassIdentifier: Assembly-CSharp::ResourceArticleSO
+  title: "Les derni\xE8res  d\xE9couvertes sur la  dyslexie."
+  content: "R\xE9sum\xE9 :\r\nLa dyslexie est un des troubles des apprentissages
+    les plus \xE9tudi\xE9s, et se rapporte \xE0  des difficult\xE9s persistantes
+    de la lecture, malgr\xE9 un entrainement accru. L\u2019acquisition de la lecture
+    \xE9tant un processus complexe, la dyslexie peut alors se manifester de diff\xE9rentes
+    fa\xE7ons. Aujourd\u2019hui, nous en savons beaucoup sur ce trouble, mais pas
+    encore suffisamment. En effet, les scientifiques ont \xE9voqu\xE9 de multiples
+    th\xE9ories tentant d\u2019expliquer son origine, ou plut\xF4t ses origines,
+    car la dyslexie aurait des causes multifactorielles.\r\n\nGr\xE2ce aux progr\xE8s
+    de la science, de nombreuses \xE9tudes continuent \xE0 \xEAtre effectu\xE9es,
+    et donnent lieu \xE0 de nouvelles d\xE9couvertes. Malgr\xE9 les compensations
+    qui existent, un des principaux objectifs pour les ann\xE9es \xE0 venir, reste
+    de trouver un ou des traitements ad\xE9quats, durables, et prouv\xE9s scientifiquement
+    pour faciliter le quotidien des sujets qui en souffrent. \r\n\nMots cl\xE9s :\r\nAvenir
+    \u2013 Causes \u2013 Dyslexie \u2013 Recherches \u2013 Pr\xE9valence \u2013 Th\xE9ories
+    \u2013 Traitement\n\ncf. https://dumas.ccsd.cnrs.fr/dumas-04002152v1/document"

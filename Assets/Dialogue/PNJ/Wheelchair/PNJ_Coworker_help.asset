@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e429239892fdea4cbdb8a7b157ca5f9, type: 3}
+  m_Name: PNJ_Coworker_help
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequenceSO
+  lines:
+  - characterName: Bob
+    dialogueText: "Koif\xE9 Denji ? \n(Bonjour Denji, comment \xE7a va ?)"
+  - characterName: Denji
+    dialogueText: "Ot\xE9 b\xE9 l\xE9 la, Bob, a ou meme ?\n(Ca va, et toi ?)"
+  - characterName: Bob
+    dialogueText: "Ou la gard' le band'  documents sur out bureau ?\n(Est-ce que
+      tu as regard\xE9 les documents sur le bureau ?)"
+  - characterName: Bob
+    dialogueText: "Bin, mais na un moune hmhm la pose ca trop haut, mi gagne pas
+      trap' le naffair \n(Oui, mais y a une personne qui mis trop haut, j'arrive
+      pas prendre le document)"

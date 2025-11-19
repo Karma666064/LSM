@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d557f80f2225e1d4d8903f6861ce7f7a, type: 3}
+  m_Name: Dyslexia_Pratique_SO
+  m_EditorClassIdentifier: Assembly-CSharp::ResourceArticleSO
+  title: Comprendre la dyslexie
+  content: "\r\nLa dyslexie est d\xE9crite comme un syndrome d\u2019origine neurologique,
+    souvent h\xE9r\xE9ditaire, qui persiste tout au long de la vie. Elle affecte
+    principalement le langage \xE9crit, entra\xEEnant des difficult\xE9s en lecture,
+    orthographe et \xE9criture. Les \xE9l\xE8ves dyslexiques peuvent \xE9galement
+    rencontrer des troubles associ\xE9s tels que des probl\xE8mes de concentration,
+    de m\xE9moire \xE0 court terme, de s\xE9quen\xE7age, d\u2019organisation spatio-temporelle,
+    ainsi que des retards de langage et de parole.\r\n\r\n1. Typologie des dyslexies\r\nLe
+    document distingue plusieurs formes de dyslexie :\r\n\r\nDyslexie phonologique
+    : difficult\xE9s \xE0 convertir les graph\xE8mes en phon\xE8mes, entra\xEEnant
+    des erreurs de d\xE9codage.\r\nDyslexie de surface : probl\xE8mes de m\xE9morisation
+    des formes orthographiques des mots, rendant la lecture laborieuse.\r\nDyslexie
+    mixte : combinaison des difficult\xE9s phonologiques et de surface, repr\xE9sentant
+    la forme la plus fr\xE9quente.\r\nDyslexie visuo-attentionnelle : probl\xE8mes
+    de balayage visuel, provoquant des sauts de mots ou de lignes lors de la lecture.\r\n\n2.
+    Signes d\u2019alerte\r\nLe guide propose une grille d\u2019observation pour rep\xE9rer
+    les manifestations typiques de la dyslexie, telles que :\r\n\r\nConfusions auditives
+    et visuelles entre lettres ou sons proches.\r\nInversions, omissions ou substitutions
+    de lettres et de syllabes.wbe.be+5wbe.be+5wbe.be+5\r\nLecture lente, hach\xE9e,
+    avec des sauts de mots ou de lignes.\r\n\xC9criture d\xE9sorganis\xE9e, avec
+    des erreurs d\u2019orthographe incoh\xE9rentes.\r\n\n3.Objectif p\xE9dagogique\r\nCe
+    document vise \xE0 sensibiliser les enseignants aux sp\xE9cificit\xE9s de la
+    dyslexie et \xE0 leur fournir des outils pour adapter leur p\xE9dagogie. Il souligne
+    l\u2019importance de reconna\xEEtre la dyslexie comme un trouble ind\xE9pendant
+    de la motivation ou de l\u2019intelligence de l\u2019\xE9l\xE8ve, et encourage
+    la mise en place d\u2019am\xE9nagements raisonnables pour favoriser la r\xE9ussite
+    scolaire des \xE9l\xE8ves concern\xE9s.\n\n\ncf. https://ecolepositive.fr/un-document-pour-mieux-comprendre-la-dyslexie/"

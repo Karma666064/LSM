@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d557f80f2225e1d4d8903f6861ce7f7a, type: 3}
+  m_Name: Burnout_Pratique_SO
+  m_EditorClassIdentifier: Assembly-CSharp::ResourceArticleSO
+  title: "Quelles sont les meilleures pratiques pour se remettre d\u2019un burn-out
+    ?"
+  content: "Pour surmonter le burn-out, il s\u2019agit d\u2019identifier les \xE9tapes
+    cl\xE9s, d\u2019adopter des routines adapt\xE9es et de renforcer sa r\xE9silience
+    afin de pr\xE9venir la rechute et de retrouver une confiance durable dans ses
+    capacit\xE9s.\n\nComment reconna\xEEtre les signes d\u2019un burn-out et agir
+    rapidement ?\n\n1.Liste des principaux signes \xE0 surveiller\r\n2.\xC9puisement
+    physique et psychique persistant\r\n3.Troubles du sommeil et insomnies\r\n4.Perte
+    de motivation et d\u2019int\xE9r\xEAt pour les activit\xE9s\r\n5.Troubles digestifs
+    ou douleurs musculaires\r\n6.Irritabilit\xE9 et id\xE9es noires\n\nQuelles premi\xE8res
+    \xE9tapes adopter pour sortir de l\u2019\xE9puisement ?\n\n\xC9tapes cl\xE9s
+    pour favoriser la r\xE9cup\xE9ration\r\n1.Arr\xEAt temporaire ou r\xE9duction
+    des activit\xE9s g\xE9n\xE9ratrices de stress\r\n2.Pratique d\u2019activit\xE9s
+    de relaxation et de m\xE9ditation\r\n3.Consultation d\u2019un professionnel de
+    sant\xE9 pour un accompagnement personnalis\xE9\r\n4.Mise en place de routines
+    de sommeil r\xE9parateur\n\nConseils pratiques pour optimiser son hygi\xE8ne
+    de vie :\r\nAdopter une alimentation vari\xE9e et riche en micronutriments\n\r\n1.Pratiquer
+    une activit\xE9 physique r\xE9guli\xE8re adapt\xE9e\r\n2.\xC9viter les excitants
+    et privil\xE9gier la r\xE9gularit\xE9 du sommeil\r\n3.Pratiquer des exercices
+    de relaxation et de coh\xE9rence cardiaque\n\ncf. https://www.asso-franceburnout.fr/quelles-sont-les-meilleures-pratiques-pour-se-remettre-dun-burn-out/"
