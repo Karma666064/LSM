@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e429239892fdea4cbdb8a7b157ca5f9, type: 3}
+  m_Name: Reunion_Meeting
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequenceSO
+  lines:
+  - characterName: Boss
+    dialogueText: "Bonjour \xE0 tous. \nMerci d'\xEAtre l\xE0. Comme vous le savez,
+      l'objectif de cette r\xE9union est d'\xE9valuer notre politique d'inclusion
+      et de voir comment am\xE9liorer le soutien aux employ\xE9s en situation de
+      handicap, visible ou invisible.\n\nJean-Marc, pour commencer, quel est le principal
+      obstacle que tu rencontres au quotidien ?"
+  - characterName: Jean-Marc
+    dialogueText: "Bonjour, le vrai probl\xE8me, c'est la charge mentale et la peur
+      du jugement. Je suis dyslexique. Les outils ne sont pas toujours l\xE0, et
+      la crainte qu'un coll\xE8gue doute de ma comp\xE9tence est \xE9puisante. Il
+      faut normaliser ces am\xE9nagements."
+  - characterName: Marie
+    dialogueText: "J'avoue que le manque d'information rend les choses maladroites.
+      Doit-on demander ou deviner ? Ne pourrait-on pas rendre les proc\xE9dures plus
+      claires pour tout le monde, afin de savoir qui a besoin de quel type de soutien
+      ?"
+  - characterName: Mathieu
+    dialogueText: "Le manque d'information, c'est l'inconfort. Mais l'information
+      est personnelle. Nous devrions plut\xF4t former les \xE9quipes \xE0 la diversit\xE9
+      et l'inclusion. L'important, c'est de comprendre ce qu'est un am\xE9nagement
+      raisonnable, sans forcer la divulgation."
+  - characterName: Boss
+    dialogueText: "C'est not\xE9. Nous allons d\xE9signer un R\xE9f\xE9rent Handicap
+      unique pour garantir la discr\xE9tion et le suivi. De plus, une formation obligatoire
+      sur les handicaps invisibles sera ajout\xE9e au plan annuel. C'est un pas vers
+      la confiance"
+  - characterName: Boss
+    dialogueText: "C'est la solution id\xE9ale. Merci pour cette initiative."
+  - characterName: Boss
+    dialogueText: "Merci \xE0 vous. Faisons de l'inclusion un levier de performance."
