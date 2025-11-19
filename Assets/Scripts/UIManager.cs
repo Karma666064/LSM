@@ -35,7 +35,7 @@ public class UIManager : MonoBehaviour
 
    public void StartOnClick()
     {
-        SceneManager.LoadScene("MTestScene"); // à modifier
+        SceneManager.LoadScene("GameTestScene"); // à modifier
         MainMenuPanel.SetActive(false);
        
         if (PauseManager.Instance != null)
